@@ -1,36 +1,608 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="US: XFL 11 | Guardians at Battlehawks (02.23.20 | 3PM ET)" tvg-id="" group-title="XFL Football",US: XFL 11 | Guardians at Battlehawks (02.23.20 | 3PM ET)
-http://day1.fast.family/live/72554?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 12 | Defenders at Wildcats (02.23.20 | 6PM ET)" tvg-id="" group-title="XFL Football",US: XFL 12 | Defenders at Wildcats (02.23.20 | 6PM ET)
-http://day1.fast.family/live/72555?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 13 | Wildcats at Guardians (02.29.20 | 2PM ET)" tvg-id="" group-title="XFL Football",US: XFL 13 | Wildcats at Guardians (02.29.20 | 2PM ET)
-http://day1.fast.family/live/72556?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 14 | Dragons at Battlehawks (02.29.20 | 5PM ET)" tvg-id="" group-title="XFL Football",US: XFL 14 | Dragons at Battlehawks (02.29.20 | 5PM ET)
-http://day1.fast.family/live/72557?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 15 | Roughnecks at Renegades (03.01.20 | 4PM ET)" tvg-id="" group-title="XFL Football",US: XFL 15 | Roughnecks at Renegades (03.01.20 | 4PM ET)
-http://day1.fast.family/live/72558?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 16 | Defenders at Vipers (03.01.20 | 7PM ET)" tvg-id="" group-title="XFL Football",US: XFL 16 | Defenders at Vipers (03.01.20 | 7PM ET)
-http://day1.fast.family/live/72559?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 01 | Dragons at Defenders (02.08.20 | 2PM ET)" tvg-id="" group-title="XFL Football",US: XFL 01 | Dragons at Defenders (02.08.20 | 2PM ET)
-http://day1.fast.family/live/72544?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 02 | Wildcats at Roughnecks (02.08.20 | 5PM ET)" tvg-id="" group-title="XFL Football",US: XFL 02 | Wildcats at Roughnecks (02.08.20 | 5PM ET)
-http://day1.fast.family/live/72545?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 03 | Vipers at Guardians (02.09.20 | 2PM ET)" tvg-id="" group-title="XFL Football",US: XFL 03 | Vipers at Guardians (02.09.20 | 2PM ET)
-http://day1.fast.family/live/72546?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 04 | Battlehawks at Renegades (02.09.20 | 5PM ET)" tvg-id="" group-title="XFL Football",US: XFL 04 | Battlehawks at Renegades (02.09.20 | 5PM ET)
-http://day1.fast.family/live/72547?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 05 | Guardians at Defenders (02.15.20 | 2PM ET)" tvg-id="" group-title="XFL Football",US: XFL 05 | Guardians at Defenders (02.15.20 | 2PM ET)
-http://day1.fast.family/live/72548?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 06 | Vipers at Dragons (02.15.20 | 5PM ET)" tvg-id="" group-title="XFL Football",US: XFL 06 | Vipers at Dragons (02.15.20 | 5PM ET)
-http://day1.fast.family/live/72549?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 07 | Renegades at Wildcats (02.16.20 | 3PM ET)" tvg-id="" group-title="XFL Football",US: XFL 07 | Renegades at Wildcats (02.16.20 | 3PM ET)
-http://day1.fast.family/live/72550?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 08 | Battlehawks at Roughnecks (02.16.20 | 6PM ET)" tvg-id="" group-title="XFL Football",US: XFL 08 | Battlehawks at Roughnecks (02.16.20 | 6PM ET)
-http://day1.fast.family/live/72551?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 09 | Roughnecks at Vipers (02.22.20 | 2PM ET)" tvg-id="" group-title="XFL Football",US: XFL 09 | Roughnecks at Vipers (02.22.20 | 2PM ET)
-http://day1.fast.family/live/72552?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: XFL 10 | Renegades at Dragons (02.22.20 | 5PM ET)" tvg-id="" group-title="XFL Football",US: XFL 10 | Renegades at Dragons (02.22.20 | 5PM ET)
-http://day1.fast.family/live/72553?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  Family" tvg-id="" group-title="France",FR: Canal  Family
+http://day3.fast.family/live/41888?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS 3 FHD" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 3 FHD
+http://day3.fast.family/live/44559?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SFR Sport 1" tvg-id="" group-title="France",FR: SFR Sport 1
+http://day3.fast.family/live/41844?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SFR Sport 2" tvg-id="" group-title="France",FR: SFR Sport 2
+http://day3.fast.family/live/41843?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Franceinfo" tvg-id="" group-title="France",FR: Franceinfo
+http://day3.fast.family/live/41859?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  HD" tvg-id="CanalPlus.fr" group-title="France",FR: Canal  HD
+http://day3.fast.family/live/41887?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Eurosport 1 HD" tvg-id="cartoonito.uk" group-title="France",FR: Eurosport 1 HD
+http://day3.fast.family/live/44546?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Game One HD" tvg-id="" group-title="France",FR: Game One HD
+http://day3.fast.family/live/41811?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  Series" tvg-id="cartoonito.uk" group-title="France",FR: Canal  Series
+http://day3.fast.family/live/41885?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: EUROSPORT 1 FHD" tvg-id="cartoonito.uk" group-title="France",FR: EUROSPORT 1 FHD
+http://day3.fast.family/live/44547?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SFR SPORT 2 HD" tvg-id="KombatSport.pt" group-title="France",FR: SFR SPORT 2 HD
+http://day3.fast.family/live/44553?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SFR Sport 3" tvg-id="" group-title="France",FR: SFR Sport 3
+http://day3.fast.family/live/41842?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Golf TV" tvg-id="" group-title="France",FR: Golf TV
+http://day3.fast.family/live/41847?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  Sport HD" tvg-id="CanalPlusSport.fr" group-title="France",FR: Canal  Sport HD
+http://day3.fast.family/live/41886?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Eurosport 2 HD" tvg-id="cartoonito.uk" group-title="France",FR: Eurosport 2 HD
+http://day3.fast.family/live/44544?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: EUROSPORT 2 FHD" tvg-id="cartoonito.uk" group-title="France",FR: EUROSPORT 2 FHD
+http://day3.fast.family/live/44545?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SFR Sport 5" tvg-id="" group-title="France",FR: SFR Sport 5
+http://day3.fast.family/live/41841?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Gulli" tvg-id="cartoonito.uk" group-title="France",FR: Gulli
+http://day3.fast.family/live/41884?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal J HD" tvg-id="" group-title="France",FR: Canal J HD
+http://day3.fast.family/live/41833?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Syfy HD" tvg-id="" group-title="France",FR: Syfy HD
+http://day3.fast.family/live/41836?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: HD1" tvg-id="" group-title="France",FR: HD1
+http://day3.fast.family/live/41854?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Cartoon Network HD" tvg-id="" group-title="France",FR: Cartoon Network HD
+http://day3.fast.family/live/41813?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Infosport  FHD" tvg-id="InfosportPlus.fr" group-title="France",FR: Infosport  FHD
+http://day3.fast.family/live/44549?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TCM Cinema HD" tvg-id="" group-title="France",FR: TCM Cinema HD
+http://day3.fast.family/live/41827?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Histoire" tvg-id="" group-title="France",FR: Histoire
+http://day3.fast.family/live/41848?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Infosport  HD" tvg-id="" group-title="France",FR: Infosport  HD
+http://day3.fast.family/live/41821?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TF1" tvg-id="TF1.fr" group-title="France",FR: TF1
+http://day3.fast.family/live/41881?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: LCI" tvg-id="" group-title="France",FR: LCI
+http://day3.fast.family/live/41853?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE  classic HD" tvg-id="" group-title="France",FR: CINE  classic HD
+http://day3.fast.family/live/41867?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Tiji HD" tvg-id="" group-title="France",FR: Tiji HD
+http://day3.fast.family/live/41838?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: LCP" tvg-id="" group-title="France",FR: LCP
+http://day3.fast.family/live/41860?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Cine  Emotion HD" tvg-id="" group-title="France",FR: Cine  Emotion HD
+http://day3.fast.family/live/41834?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TMC" tvg-id="TCM.fr" group-title="France",FR: TMC
+http://day3.fast.family/live/41872?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: LEquipe 21" tvg-id="" group-title="France",FR: LEquipe 21
+http://day3.fast.family/live/41869?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Cine  Famiz" tvg-id="" group-title="France",FR: Cine  Famiz
+http://day3.fast.family/live/41866?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: L'" tvg-id="LCI.fr" group-title="France",FR: L'
+http://day3.fast.family/live/44548?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Trace Urban HD" tvg-id="" group-title="France",FR: Trace Urban HD
+http://day3.fast.family/live/41835?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: M6" tvg-id="M6.fr" group-title="France",FR: M6
+http://day3.fast.family/live/41876?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TV Breizh HD" tvg-id="" group-title="France",FR: TV Breizh HD
+http://day3.fast.family/live/41820?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TV8 Mont-Blanc HD" tvg-id="" group-title="France",FR: TV8 Mont-Blanc HD
+http://day3.fast.family/live/41830?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Mangas" tvg-id="" group-title="France",FR: Mangas
+http://day3.fast.family/live/41846?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SFR SPORT 2 FHD" tvg-id="" group-title="France",FR: SFR SPORT 2 FHD
+http://day3.fast.family/live/44554?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Voyage" tvg-id="" group-title="France",FR: Voyage
+http://day3.fast.family/live/41857?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: MCM HD" tvg-id="" group-title="France",FR: MCM HD
+http://day3.fast.family/live/41828?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="RMC SPORT 1 FHD" tvg-id="" group-title="France",RMC SPORT 1 FHD
+http://day3.fast.family/live/44556?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: W9" tvg-id="" group-title="France",FR: W9
+http://day3.fast.family/live/41882?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: MCM Top HD" tvg-id="" group-title="France",FR: MCM Top HD
+http://day3.fast.family/live/41815?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE  Frisson" tvg-id="CinePlusFrisson.fr" group-title="France",FR: CINE  Frisson
+http://day3.fast.family/live/41891?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="RMC SPORT ACCESS 1 HD" tvg-id="" group-title="France",RMC SPORT ACCESS 1 HD
+http://day3.fast.family/live/44550?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Cine  Premier" tvg-id="" group-title="France",FR: Cine  Premier
+http://day3.fast.family/live/41865?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="RMC SPORT ACCESS 1 FHD" tvg-id="" group-title="France",RMC SPORT ACCESS 1 FHD
+http://day3.fast.family/live/44555?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="RMC SPORT ACCESS 2 HD" tvg-id="" group-title="France",RMC SPORT ACCESS 2 HD
+http://day3.fast.family/live/44552?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CNews" tvg-id="cartoonito.uk" group-title="France",FR: CNews
+http://day3.fast.family/live/41873?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="RMC SPORT ACCESS 3 HD" tvg-id="" group-title="France",RMC SPORT ACCESS 3 HD
+http://day3.fast.family/live/44551?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Comedie  HD" tvg-id="" group-title="France",FR: Comedie  HD
+http://day3.fast.family/live/41818?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="beIN SPORTS HD 1 FR (1080P)" tvg-id="" group-title="France",beIN SPORTS HD 1 FR (1080P)
+http://day3.fast.family/live/44568?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Mezzo Live HD" tvg-id="" group-title="France",FR: Mezzo Live HD
+http://day3.fast.family/live/41825?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CSTAR" tvg-id="" group-title="France",FR: CSTAR
+http://day3.fast.family/live/41870?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="beIN SPORTS HD 2 FR (1080P)" tvg-id="" group-title="France",beIN SPORTS HD 2 FR (1080P)
+http://day3.fast.family/live/44567?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: MTV France HD" tvg-id="" group-title="France",FR: MTV France HD
+http://day3.fast.family/live/41837?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Discovery Science HD" tvg-id="" group-title="France",FR: Discovery Science HD
+http://day3.fast.family/live/41824?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="beIN SPORTS HD 3 FR (1080P)" tvg-id="" group-title="France",beIN SPORTS HD 3 FR (1080P)
+http://day3.fast.family/live/44566?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: National Geo HD" tvg-id="" group-title="France",FR: National Geo HD
+http://day3.fast.family/live/41845?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Disney Cinema HD" tvg-id="" group-title="France",FR: Disney Cinema HD
+http://day3.fast.family/live/41832?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: 6TER" tvg-id="" group-title="France",FR: 6TER
+http://day3.fast.family/live/41856?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Nickelodeon" tvg-id="" group-title="France",FR: Nickelodeon
+http://day3.fast.family/live/41862?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Disney HD" tvg-id="" group-title="France",FR: Disney HD
+http://day3.fast.family/live/41858?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: E! HD" tvg-id="" group-title="France",FR: E! HD
+http://day3.fast.family/live/41831?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: AB 1" tvg-id="" group-title="France",FR: AB 1
+http://day3.fast.family/live/41850?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: NRJ12" tvg-id="NRJ12.fr" group-title="France",FR: NRJ12
+http://day3.fast.family/live/41883?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Elle Girl HD" tvg-id="" group-title="France",FR: Elle Girl HD
+http://day3.fast.family/live/41816?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Action HD" tvg-id="" group-title="France",FR: Action HD
+http://day3.fast.family/live/41829?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: NT1" tvg-id="" group-title="France",FR: NT1
+http://day3.fast.family/live/41871?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Equidia Live HD" tvg-id="" group-title="France",FR: Equidia Live HD
+http://day3.fast.family/live/41812?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Animaux" tvg-id="" group-title="France",FR: Animaux
+http://day3.fast.family/live/41849?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Numero 23" tvg-id="" group-title="France",FR: Numero 23
+http://day3.fast.family/live/41852?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Eurosport 1" tvg-id="" group-title="France",FR: Eurosport 1
+http://day3.fast.family/live/41864?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Arte" tvg-id="ARTE.fr" group-title="France",FR: Arte
+http://day3.fast.family/live/41874?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS 1" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 1
+http://day3.fast.family/live/44563?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Paramount Channel HD" tvg-id="" group-title="France",FR: Paramount Channel HD
+http://day3.fast.family/live/41826?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Eurosport 2" tvg-id="" group-title="France",FR: Eurosport 2
+http://day3.fast.family/live/41863?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Be Curious TV HD" tvg-id="" group-title="France",FR: Be Curious TV HD
+http://day3.fast.family/live/41810?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS 1 HD" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 1 HD
+http://day3.fast.family/live/44564?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Planete  AE HD" tvg-id="" group-title="France",FR: Planete  AE HD
+http://day3.fast.family/live/41823?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Planete  CI HD" tvg-id="" group-title="France",FR: Planete  CI HD
+http://day3.fast.family/live/41819?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: France 2" tvg-id="cartoonito.uk" group-title="France",FR: France 2
+http://day3.fast.family/live/41880?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: BFM TV" tvg-id="BFMTV.fr" group-title="France",FR: BFM TV
+http://day3.fast.family/live/41892?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS 1 FHD" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 1 FHD
+http://day3.fast.family/live/44565?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS 2" tvg-id="" group-title="France",FR: beIN SPORTS 2
+http://day3.fast.family/live/44560?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Planete  HD" tvg-id="" group-title="France",FR: Planete  HD
+http://day3.fast.family/live/41814?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: France 24" tvg-id="cartoonito.uk" group-title="France",FR: France 24
+http://day3.fast.family/live/41893?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Boing HD" tvg-id="" group-title="France",FR: Boing HD
+http://day3.fast.family/live/41839?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS 2 HD" tvg-id="" group-title="France",FR: beIN SPORTS 2 HD
+http://day3.fast.family/live/44561?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: RFM TV HD" tvg-id="" group-title="France",FR: RFM TV HD
+http://day3.fast.family/live/41817?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: France 3" tvg-id="cartoonito.uk" group-title="France",FR: France 3
+http://day3.fast.family/live/41879?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Boomerang HD" tvg-id="" group-title="France",FR: Boomerang HD
+http://day3.fast.family/live/41840?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS 2 FHD" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 2 FHD
+http://day3.fast.family/live/44562?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: RMC Docouverte" tvg-id="" group-title="France",FR: RMC Docouverte
+http://day3.fast.family/live/41868?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: France 4" tvg-id="cartoonito.uk" group-title="France",FR: France 4
+http://day3.fast.family/live/41878?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: C8" tvg-id="C8.fr" group-title="France",FR: C8
+http://day3.fast.family/live/41875?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS 3" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 3
+http://day3.fast.family/live/44557?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Science & Vie HD" tvg-id="" group-title="France",FR: Science & Vie HD
+http://day3.fast.family/live/41851?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: France 5" tvg-id="cartoonito.uk" group-title="France",FR: France 5
+http://day3.fast.family/live/41877?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  Cinema HD" tvg-id="cartoonito.uk" group-title="France",FR: Canal  Cinema HD
+http://day3.fast.family/live/41890?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS 3 HD" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 3 HD
+http://day3.fast.family/live/44558?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Seasons HD" tvg-id="" group-title="France",FR: Seasons HD
+http://day3.fast.family/live/41822?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: France O" tvg-id="" group-title="France",FR: France O
+http://day3.fast.family/live/41861?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  Decale" tvg-id="cartoonito.uk" group-title="France",FR: Canal  Decale
+http://day3.fast.family/live/41889?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Bein max 4(1)" tvg-id="bein4max.fr" group-title="France",FR: Bein max 4(1)
+http://day2.fast.family/live/2865?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR : EURONEWS" tvg-id="" group-title="France",FR : EURONEWS
+http://day2.fast.family/live/1550?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: FRANCE 3" tvg-id="france3.fr" group-title="France",FR: FRANCE 3
+http://day2.fast.family/live/529?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: RTL9" tvg-id="RTL9 FR" group-title="France",FR: RTL9
+http://day2.fast.family/live/246?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TELETOON + FHD" tvg-id="teletoonplus.fr" group-title="France",FR: TELETOON + FHD
+http://day2.fast.family/live/1548?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: W9" tvg-id="w9.fr" group-title="France",FR: W9
+http://day2.fast.family/live/341?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: BOOMERANG HD" tvg-id="boomerang.fr" group-title="France",FR: BOOMERANG HD
+http://day2.fast.family/live/5863?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Boing" tvg-id="boing.fr" group-title="France",FR: Boing
+http://day2.fast.family/live/5864?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR:  Cartoon Network HD" tvg-id="cartoonnetwork.fr" group-title="France",FR:  Cartoon Network HD
+http://day2.fast.family/live/1547?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Discovery Science HD" tvg-id="discoveryscience.fr" group-title="France",FR: Discovery Science HD
+http://day2.fast.family/live/1528?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR:  Disney Jr Fr" tvg-id="disneyjunior.fr" group-title="France",FR:  Disney Jr Fr
+http://day2.fast.family/live/1546?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR:  Nat Geo HD" tvg-id="natgeo.fr" group-title="France",FR:  Nat Geo HD
+http://day2.fast.family/live/1535?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR:  Nat Geo Wild  HD" tvg-id="natgeowild.fr" group-title="France",FR:  Nat Geo Wild  HD
+http://day2.fast.family/live/1534?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR:  NRJ12 HD" tvg-id="nrj12.fr" group-title="France",FR:  NRJ12 HD
+http://day2.fast.family/live/1540?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: 13 EME RUE HD" tvg-id="13e Rue" group-title="France",FR: 13 EME RUE HD
+http://day2.fast.family/live/4961?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: 6TER HD" tvg-id="" group-title="France",FR: 6TER HD
+http://day2.fast.family/live/248?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: A LA CARTE 10" tvg-id="" group-title="France",FR: A LA CARTE 10
+http://day2.fast.family/live/1554?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: A LA CARTE 7" tvg-id="" group-title="France",FR: A LA CARTE 7
+http://day2.fast.family/live/1557?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: A LA CARTE 8" tvg-id="" group-title="France",FR: A LA CARTE 8
+http://day2.fast.family/live/1556?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: A LA CARTE 9" tvg-id="" group-title="France",FR: A LA CARTE 9
+http://day2.fast.family/live/1555?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: AB Moteur HD" tvg-id="abmoteurs.fr" group-title="France",FR: AB Moteur HD
+http://day2.fast.family/live/4976?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: AB1" tvg-id="ab1.fr" group-title="France",FR: AB1
+http://day2.fast.family/live/4966?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: AB3" tvg-id="ab3.fr" group-title="France",FR: AB3
+http://day2.fast.family/live/4968?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: ACTION" tvg-id="action.fr" group-title="France",FR: ACTION
+http://day2.fast.family/live/4973?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: ANIMAUX" tvg-id="animaux.fr" group-title="France",FR: ANIMAUX
+http://day2.fast.family/live/4985?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: ARTE HD" tvg-id="arte.fr" group-title="France",FR: ARTE HD
+http://day2.fast.family/live/4405?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Bein Sport Max 9 HD" tvg-id="BEIN SPORTS MAX 9" group-title="France",FR: Bein Sport Max 9 HD
+http://day2.fast.family/live/5622?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Bein Sport Max 8" tvg-id="BEIN SPORTS MAX 8" group-title="France",FR: Bein Sport Max 8
+http://day2.fast.family/live/5621?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Bein Sport Max 7" tvg-id="BEIN SPORTS MAX 7" group-title="France",FR: Bein Sport Max 7
+http://day2.fast.family/live/5620?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Bein Sport Max 6" tvg-id="BEIN SPORTS MAX 6" group-title="France",FR: Bein Sport Max 6
+http://day2.fast.family/live/5619?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Bein Sport Max 5" tvg-id="BEIN SPORTS MAX 5" group-title="France",FR: Bein Sport Max 5
+http://day2.fast.family/live/5618?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Bein Sport Max 10" tvg-id="BEIN SPORTS MAX 10" group-title="France",FR: Bein Sport Max 10
+http://day2.fast.family/live/5623?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: D8" tvg-id="D8" group-title="France",FR: D8
+http://day2.fast.family/live/243?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: C8" tvg-id="c8.fr" group-title="France",FR: C8
+http://day2.fast.family/live/4993?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  Cinema" tvg-id="" group-title="France",FR: Canal  Cinema
+http://day2.fast.family/live/255?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  Decale" tvg-id="" group-title="France",FR: Canal  Decale
+http://day2.fast.family/live/254?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  Family" tvg-id="" group-title="France",FR: Canal  Family
+http://day2.fast.family/live/253?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  Series" tvg-id="" group-title="France",FR: Canal  Series
+http://day2.fast.family/live/252?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  Sport" tvg-id="" group-title="France",FR: Canal  Sport
+http://day2.fast.family/live/251?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CANAL J" tvg-id="canalj.fr" group-title="France",FR: CANAL J
+http://day2.fast.family/live/1545?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CANAL PLAY 1" tvg-id="" group-title="France",FR: CANAL PLAY 1
+http://day2.fast.family/live/3749?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CANAL PLAY 2" tvg-id="" group-title="France",FR: CANAL PLAY 2
+http://day2.fast.family/live/3748?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CANAL PLAY 3" tvg-id="" group-title="France",FR: CANAL PLAY 3
+http://day2.fast.family/live/3747?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CANAL PLAY 4" tvg-id="" group-title="France",FR: CANAL PLAY 4
+http://day2.fast.family/live/3746?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CANAL PLAY 5" tvg-id="" group-title="France",FR: CANAL PLAY 5
+http://day2.fast.family/live/3745?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CANAL PLAY 6" tvg-id="" group-title="France",FR: CANAL PLAY 6
+http://day2.fast.family/live/3744?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CANAL PLAY 7" tvg-id="" group-title="France",FR: CANAL PLAY 7
+http://day2.fast.family/live/3743?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Chasse et Peche" tvg-id="chassepeche.fr" group-title="France",FR: Chasse et Peche
+http://day2.fast.family/live/3742?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CHERIE 25 HD" tvg-id="cherie25.fr" group-title="France",FR: CHERIE 25 HD
+http://day2.fast.family/live/4958?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE CLASSIC" tvg-id="" group-title="France",FR: CINE CLASSIC
+http://day2.fast.family/live/3739?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE CLASSIC HD" tvg-id="" group-title="France",FR: CINE CLASSIC HD
+http://day2.fast.family/live/3733?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE EMOTION" tvg-id="" group-title="France",FR: CINE EMOTION
+http://day2.fast.family/live/4971?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE EMOTION HD" tvg-id="" group-title="France",FR: CINE EMOTION HD
+http://day2.fast.family/live/3738?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE FAMIZ" tvg-id="Cine+ Famiz HD FR" group-title="France",FR: CINE FAMIZ
+http://day2.fast.family/live/3737?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Cine Famiz HD" tvg-id="Cine+ Famiz HD FR" group-title="France",FR: Cine Famiz HD
+http://day2.fast.family/live/4972?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE FRISSON" tvg-id="Cine+ Frisson HD FR" group-title="France",FR: CINE FRISSON
+http://day2.fast.family/live/3736?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE FRISSON HD" tvg-id="Cine+ Premier HD FR" group-title="France",FR: CINE FRISSON HD
+http://day2.fast.family/live/4970?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE FX" tvg-id="cinefx.fr" group-title="France",FR: CINE FX
+http://day2.fast.family/live/256?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE POLAR" tvg-id="Ciné Polar" group-title="France",FR: CINE POLAR
+http://day2.fast.family/live/3735?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE PREMIER HD" tvg-id="" group-title="France",FR: CINE PREMIER HD
+http://day2.fast.family/live/3734?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: COMEDIE  HD" tvg-id="comedieplus.fr" group-title="France",FR: COMEDIE  HD
+http://day2.fast.family/live/1539?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Comedie +" tvg-id="comedieplus.fr" group-title="France",FR: Comedie +
+http://day2.fast.family/live/4964?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CSTAR HD" tvg-id="cstar.fr" group-title="France",FR: CSTAR HD
+http://day2.fast.family/live/4992?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CANAL+ HD" tvg-id="canalplus.fr" group-title="France",FR: CANAL+ HD
+http://day2.fast.family/live/250?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: BFM TV" tvg-id="bfmtv.fr" group-title="France",FR: BFM TV
+http://day2.fast.family/live/1549?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: GULLI HD" tvg-id="gulli.fr" group-title="France",FR: GULLI HD
+http://day2.fast.family/live/4957?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: GAME ONE" tvg-id="gameone.fr" group-title="France",FR: GAME ONE
+http://day2.fast.family/live/4967?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: France O  HD" tvg-id="franceo.fr" group-title="France",FR: France O  HD
+http://day2.fast.family/live/532?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: France 5 HD" tvg-id="france5.fr" group-title="France",FR: France 5 HD
+http://day2.fast.family/live/531?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: France 4  HD" tvg-id="france4.fr" group-title="France",FR: France 4  HD
+http://day2.fast.family/live/530?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: FRANCE 2" tvg-id="france2.fr" group-title="France",FR: FRANCE 2
+http://day2.fast.family/live/528?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: EUROSPORT2" tvg-id="eurosport2.fr" group-title="France",FR: EUROSPORT2
+http://day2.fast.family/live/1542?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Eurosport 2" tvg-id="eurosport2.fr" group-title="France",FR: Eurosport 2
+http://day2.fast.family/live/4975?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Eurosport 1" tvg-id="eurosport1.fr" group-title="France",FR: Eurosport 1
+http://day2.fast.family/live/1541?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: EQUIDIA live" tvg-id="equidialive.fr" group-title="France",FR: EQUIDIA live
+http://day2.fast.family/live/4990?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Disney XD HD" tvg-id="disneyxd.fr" group-title="France",FR: Disney XD HD
+http://day2.fast.family/live/1553?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: DISNEY CINEMA" tvg-id="disneycinema.fr" group-title="France",FR: DISNEY CINEMA
+http://day2.fast.family/live/1543?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: DISNEY CHANNEL" tvg-id="disneychannel.fr" group-title="France",FR: DISNEY CHANNEL
+http://day2.fast.family/live/1544?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: i Tele" tvg-id="i-Télé HD FR" group-title="France",FR: i Tele
+http://day2.fast.family/live/4956?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: INFOSPORT" tvg-id="" group-title="France",FR: INFOSPORT
+http://day2.fast.family/live/4978?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: L'EQUIPE 21" tvg-id="lequipe21.fr" group-title="France",FR: L'EQUIPE 21
+http://day2.fast.family/live/4977?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: La Deux" tvg-id="La Deux" group-title="France",FR: La Deux
+http://day2.fast.family/live/3731?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: La une BE" tvg-id="La Une" group-title="France",FR: La une BE
+http://day2.fast.family/live/3730?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: LCI" tvg-id="lci.fr" group-title="France",FR: LCI
+http://day2.fast.family/live/4955?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: M6" tvg-id="m6.fr" group-title="France",FR: M6
+http://day2.fast.family/live/242?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Mangas" tvg-id="mangas.fr" group-title="France",FR: Mangas
+http://day2.fast.family/live/3728?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: National geo wild" tvg-id="natgeowild.fr" group-title="France",FR: National geo wild
+http://day2.fast.family/live/3727?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: NICKELODEON JUNIOR" tvg-id="nickjr.fr" group-title="France",FR: NICKELODEON JUNIOR
+http://day2.fast.family/live/1533?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: NRJ Hits" tvg-id="nrjhits.fr" group-title="France",FR: NRJ Hits
+http://day2.fast.family/live/3726?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: NUMERO 23 HD" tvg-id="6ter.fr" group-title="France",FR: NUMERO 23 HD
+http://day2.fast.family/live/1527?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: OCS CHOC HD" tvg-id="ocschoc.fr" group-title="France",FR: OCS CHOC HD
+http://day2.fast.family/live/4969?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: OCS CITY" tvg-id="ocscity.fr" group-title="France",FR: OCS CITY
+http://day2.fast.family/live/261?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: OCS GEANT" tvg-id="ocsgeants.fr" group-title="France",FR: OCS GEANT
+http://day2.fast.family/live/260?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: OCS MAX" tvg-id="ocsmax.fr" group-title="France",FR: OCS MAX
+http://day2.fast.family/live/259?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: OLTV HD" tvg-id="oltv.fr" group-title="France",FR: OLTV HD
+http://day2.fast.family/live/4979?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-id="paramountchannel.fr" group-title="France",FR: PARAMOUNT CHANNEL HD
+http://day2.fast.family/live/1537?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: PARIS PREMIERE  HD" tvg-id="parispremiere.fr" group-title="France",FR: PARIS PREMIERE  HD
+http://day2.fast.family/live/1538?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: PARIS PREMIERE HD" tvg-id="parispremiere.fr" group-title="France",FR: PARIS PREMIERE HD
+http://day2.fast.family/live/4959?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: PIWI HD" tvg-id="piwi.fr" group-title="France",FR: PIWI HD
+http://day2.fast.family/live/4988?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: PLANETE  HD" tvg-id="" group-title="France",FR: PLANETE  HD
+http://day2.fast.family/live/4981?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: PLANETE A&E HD" tvg-id="planeteaction.fr" group-title="France",FR: PLANETE A&E HD
+http://day2.fast.family/live/4983?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: PLANETE CI HD" tvg-id="planetejustice.fr" group-title="France",FR: PLANETE CI HD
+http://day2.fast.family/live/4982?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: rmc decouverte" tvg-id="rmcdecouverte.fr" group-title="France",FR: rmc decouverte
+http://day2.fast.family/live/1536?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: RTS Deux" tvg-id="RTS Deux" group-title="France",FR: RTS Deux
+http://day2.fast.family/live/3721?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: RTS Un" tvg-id="RTS Un" group-title="France",FR: RTS Un
+http://day2.fast.family/live/3720?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SCIENCE ET VIE HD" tvg-id="scienceandvie.fr" group-title="France",FR: SCIENCE ET VIE HD
+http://day2.fast.family/live/4987?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SCIENCES & VIE" tvg-id="scienceandvie.fr" group-title="France",FR: SCIENCES & VIE
+http://day2.fast.family/live/4986?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SERIE CLUB" tvg-id="serieclub.fr" group-title="France",FR: SERIE CLUB
+http://day2.fast.family/live/3719?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Series Club HD" tvg-id="serieclub.fr" group-title="France",FR: Series Club HD
+http://day2.fast.family/live/4962?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beINS PORTS 2HD" tvg-id="beinsports2.fr" group-title="France",FR: beINS PORTS 2HD
+http://day2.fast.family/live/445?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS1 HD" tvg-id="beinsports1.fr" group-title="France",FR: beIN SPORTS1 HD
+http://day2.fast.family/live/444?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS 3HD" tvg-id="beinsports3.fr" group-title="France",FR: beIN SPORTS 3HD
+http://day2.fast.family/live/446?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: RMC 1" tvg-id="6ter.fr" group-title="France",FR: RMC 1
+http://day2.fast.family/live/3715?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SFR: Sport 2" tvg-id="6ter.fr" group-title="France",FR: SFR: Sport 2
+http://day2.fast.family/live/3713?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SFR: Sport 3" tvg-id="6ter.fr" group-title="France",FR: SFR: Sport 3
+http://day2.fast.family/live/3714?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Syfy HD" tvg-id="syfy.fr" group-title="France",FR: Syfy HD
+http://day2.fast.family/live/4963?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Teva" tvg-id="teva.fr" group-title="France",FR: Teva
+http://day2.fast.family/live/4960?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TF1 HD" tvg-id="tf1.fr" group-title="France",FR: TF1 HD
+http://day2.fast.family/live/241?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Tiji" tvg-id="tiji.fr" group-title="France",FR: Tiji
+http://day2.fast.family/live/4989?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TOUTE L HISTOIRE" tvg-id="toutehistoire.fr" group-title="France",FR: TOUTE L HISTOIRE
+http://day2.fast.family/live/4984?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TV BREIZH HD" tvg-id="tvbreizh.fr" group-title="France",FR: TV BREIZH HD
+http://day2.fast.family/live/4965?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: USHUAIA  HD" tvg-id="ushuaiatv.fr" group-title="France",FR: USHUAIA  HD
+http://day2.fast.family/live/1531?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: A LA CARTE 5" tvg-id="" group-title="France",FR: A LA CARTE 5
+http://day2.fast.family/live/1559?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: A la Carte 6" tvg-id="" group-title="France",FR: A la Carte 6
+http://day2.fast.family/live/1558?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR:A.LA.CARTE.1" tvg-id="" group-title="France",FR:A.LA.CARTE.1
+http://day2.fast.family/live/1561?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: A.LA.CARTE.3" tvg-id="" group-title="France",FR: A.LA.CARTE.3
+http://day2.fast.family/live/1562?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: A.LA.CARTE.4" tvg-id="" group-title="France",FR: A.LA.CARTE.4
+http://day2.fast.family/live/1560?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CINE PREMIER" tvg-id="" group-title="France",FR: CINE PREMIER
+http://day2.fast.family/live/257?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: FRANCE 24" tvg-id="france24.fr" group-title="France",FR: FRANCE 24
+http://day2.fast.family/live/1551?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: NICKELODEON HD" tvg-id="nickelodeon.fr" group-title="France",FR: NICKELODEON HD
+http://day2.fast.family/live/5862?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TRACE URBAN" tvg-id="" group-title="France",FR: TRACE URBAN
+http://day2.fast.family/live/6691?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="VIP FR: ARTE HD ( 1080P )" tvg-id="arte.fr" group-title="France",VIP FR: ARTE HD ( 1080P )
+http://day2.fast.family/live/6734?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="VIP FR: BRAVA HD ( 1080P )" tvg-id="bravahd.fr" group-title="France",VIP FR: BRAVA HD ( 1080P )
+http://day2.fast.family/live/6743?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="VIP FR: TMC HD ( 1080P )" tvg-id="tmc.fr" group-title="France",VIP FR: TMC HD ( 1080P )
+http://day2.fast.family/live/6738?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: DISNEY CHANNEL FHD 1080" tvg-id="disneychannel.fr" group-title="France",FR: DISNEY CHANNEL FHD 1080
+http://day2.fast.family/live/6975?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="VIP FR: Eurosport 2 FHD 1080" tvg-id="eurosport2.fr" group-title="France",VIP FR: Eurosport 2 FHD 1080
+http://day2.fast.family/live/6974?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR:NT1" tvg-id="6ter.fr" group-title="France",FR:NT1
+http://day2.fast.family/live/244?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR:TCM CINEMA" tvg-id="tcm.fr" group-title="France",FR:TCM CINEMA
+http://day2.fast.family/live/4974?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TEVA/TMC" tvg-id="teva.fr" group-title="France",FR: TEVA/TMC
+http://day2.fast.family/live/245?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TREK HD" tvg-id="trek.fr" group-title="France",FR: TREK HD
+http://day2.fast.family/live/1526?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR:TV5 MONDE" tvg-id="tv5monde.fr" group-title="France",FR:TV5 MONDE
+http://day2.fast.family/live/1552?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: DISCOVERY" tvg-id="discoverychannel.fr" group-title="France",FR: DISCOVERY
+http://day2.fast.family/live/3732?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: VOYAGE HD" tvg-id="voyage.fr" group-title="France",FR: VOYAGE HD
+http://day2.fast.family/live/1532?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: BFM SPORT" tvg-id="BFM Sport" group-title="France",FR: BFM SPORT
+http://day2.fast.family/live/7848?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: ELLE GIRL HD 1080" tvg-id="ellegirl.fr" group-title="France",FR: ELLE GIRL HD 1080
+http://day2.fast.family/live/8092?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: GOLF+ HD" tvg-id="golfplus.fr" group-title="France",FR: GOLF+ HD
+http://day2.fast.family/live/8093?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: EQUIDIA LIFE" tvg-id="equidialive.fr" group-title="France",FR: EQUIDIA LIFE
+http://day2.fast.family/live/8238?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: BE CURIOUS TV HD (1080P)" tvg-id="Be Curious TV HD FR" group-title="France",FR: BE CURIOUS TV HD (1080P)
+http://day2.fast.family/live/8327?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: BeIN SPORTS 1 HD (1080P)" tvg-id="beinsports1.fr" group-title="France",FR: BeIN SPORTS 1 HD (1080P)
+http://day2.fast.family/live/8310?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: BeIN SPORTS 2 HD (1080P)" tvg-id="beinsports2.fr" group-title="France",FR: BeIN SPORTS 2 HD (1080P)
+http://day2.fast.family/live/8309?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: BeIN SPORTS 3 HD (1080P)" tvg-id="beinsports3.fr" group-title="France",FR: BeIN SPORTS 3 HD (1080P)
+http://day2.fast.family/live/8308?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CANAL +  HD (1080P)" tvg-id="canalplus.fr" group-title="France",FR: CANAL +  HD (1080P)
+http://day2.fast.family/live/8326?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Canal  Sport HD (1080P)" tvg-id="Canal+ Sport HD FR" group-title="France",FR: Canal  Sport HD (1080P)
+http://day2.fast.family/live/8311?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CANAL CINEMA HD (1080P)" tvg-id="Canal+ Cinema HD FR" group-title="France",FR: CANAL CINEMA HD (1080P)
+http://day2.fast.family/live/8323?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Cartoon Network HD (1080P)" tvg-id="cartoonnetwork.fr" group-title="France",FR: Cartoon Network HD (1080P)
+http://day2.fast.family/live/8312?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Cine Famiz HD (1080P)" tvg-id="" group-title="France",FR: Cine Famiz HD (1080P)
+http://day2.fast.family/live/8319?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Cine Frisson HD (1080P)" tvg-id="" group-title="France",FR: Cine Frisson HD (1080P)
+http://day2.fast.family/live/8320?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Cine Premier HD (1080P)" tvg-id="" group-title="France",FR: Cine Premier HD (1080P)
+http://day2.fast.family/live/8321?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: DISNEY CINEMA HD (1080P)" tvg-id="disneycinema.fr" group-title="France",FR: DISNEY CINEMA HD (1080P)
+http://day2.fast.family/live/8315?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: DISNEY JUNIOR HD (1080P)" tvg-id="disneyjunior.fr" group-title="France",FR: DISNEY JUNIOR HD (1080P)
+http://day2.fast.family/live/8314?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: France 02 HD (1080P)" tvg-id="france2.fr" group-title="France",FR: France 02 HD (1080P)
+http://day2.fast.family/live/8341?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: France 03 HD (1080P)" tvg-id="france3.fr" group-title="France",FR: France 03 HD (1080P)
+http://day2.fast.family/live/8340?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: HD1 HD (1080P)" tvg-id="6ter.fr" group-title="France",FR: HD1 HD (1080P)
+http://day2.fast.family/live/8328?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: M6 HD (1080P)" tvg-id="m6.fr" group-title="France",FR: M6 HD (1080P)
+http://day2.fast.family/live/8337?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Syfy HD (1080P)" tvg-id="syfy.fr" group-title="France",FR: Syfy HD (1080P)
+http://day2.fast.family/live/8331?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: TF1 HD (1080P)" tvg-id="tf1.fr" group-title="France",FR: TF1 HD (1080P)
+http://day2.fast.family/live/8342?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Discovery Investigation HD" tvg-id="" group-title="France",FR: Discovery Investigation HD
+http://day2.fast.family/live/8389?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: BFM business" tvg-id="" group-title="France",FR: BFM business
+http://day2.fast.family/live/8404?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: E! Entertainment" tvg-id="eentertainment.fr" group-title="France",FR: E! Entertainment
+http://day2.fast.family/live/8516?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SFR2 SPORT HD (backup)" tvg-id="6ter.fr" group-title="France",FR: SFR2 SPORT HD (backup)
+http://day2.fast.family/live/8628?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: SFR SPORT 3 backup" tvg-id="6ter.fr" group-title="France",FR: SFR SPORT 3 backup
+http://day2.fast.family/live/8629?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Bein Sports 1 HD backup" tvg-id="beinsports1.fr" group-title="France",FR: Bein Sports 1 HD backup
+http://day2.fast.family/live/8803?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CRIME DISTRICT HD" tvg-id="" group-title="France",FR: CRIME DISTRICT HD
+http://day2.fast.family/live/8805?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: MCM" tvg-id="mcm.fr" group-title="France",FR: MCM
+http://day2.fast.family/live/9162?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: MCM TOP" tvg-id="mcmtop.fr" group-title="France",FR: MCM TOP
+http://day2.fast.family/live/9163?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Nick Jr" tvg-id="nickjr.fr" group-title="France",FR: Nick Jr
+http://day2.fast.family/live/9161?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Seasons" tvg-id="seasons.fr" group-title="France",FR: Seasons
+http://day2.fast.family/live/9440?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: FOOT+ 24" tvg-id="footplus24.fr" group-title="France",FR: FOOT+ 24
+http://day2.fast.family/live/16098?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: beIN SPORTS 2 backup" tvg-id="beinsports2.fr" group-title="France",FR: beIN SPORTS 2 backup
+http://day2.fast.family/live/16105?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: CNews HD" tvg-id="cnews.fr" group-title="France",FR: CNews HD
+http://day2.fast.family/live/17072?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: ALTICE STUDIO HD" tvg-id="" group-title="France",FR: ALTICE STUDIO HD
+http://day2.fast.family/live/17197?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: BET" tvg-id="BET HD FR" group-title="France",FR: BET
+http://day2.fast.family/live/17199?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: J One" tvg-id="" group-title="France",FR: J One
+http://day2.fast.family/live/17198?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: OCS Go Cinema 1 HD" tvg-id="" group-title="France",FR: OCS Go Cinema 1 HD
+http://day2.fast.family/live/17300?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: OCS Go Cinema 5 HD" tvg-id="" group-title="France",FR: OCS Go Cinema 5 HD
+http://day2.fast.family/live/17296?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Orange Cinema 1 HD" tvg-id="" group-title="France",FR: Orange Cinema 1 HD
+http://day2.fast.family/live/17295?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Orange Cinema 3 HD" tvg-id="" group-title="France",FR: Orange Cinema 3 HD
+http://day2.fast.family/live/17293?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Orange Cinema 4 HD" tvg-id="" group-title="France",FR: Orange Cinema 4 HD
+http://day2.fast.family/live/17292?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Orange Cinema Action HD" tvg-id="" group-title="France",FR: Orange Cinema Action HD
+http://day2.fast.family/live/17290?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Orange Cinema Aventure HD" tvg-id="" group-title="France",FR: Orange Cinema Aventure HD
+http://day2.fast.family/live/17289?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Orange Cinema HD" tvg-id="" group-title="France",FR: Orange Cinema HD
+http://day2.fast.family/live/17288?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Orange Comment C'Est Fait HD" tvg-id="" group-title="France",FR: Orange Comment C'Est Fait HD
+http://day2.fast.family/live/17286?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Orange Documentaire HD" tvg-id="" group-title="France",FR: Orange Documentaire HD
+http://day2.fast.family/live/17285?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="FR: Orange Enquete Exlusive HD" tvg-id="" group-title="France",FR: Orange Enquete Exlusive HD
+http://day2.fast.family/live/17284?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="US: ESPN 2 | HD" tvg-id="espn2.us" group-title="USA SPORTS",US: ESPN 2 | HD
 http://day1.fast.family/live/519?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="US: BeIN Sports 8" tvg-id="beinsports8.us" group-title="USA SPORTS",US: BeIN Sports 8
@@ -275,8 +847,6 @@ http://day1.fast.family/live/393?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b
 http://day1.fast.family/live/284?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="US: FX (East) | HD" tvg-id="US: FX EAST" group-title="USA NETWORK TV",US: FX (East) | HD
 http://day1.fast.family/live/285?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="US: LAFF TV | SD" tvg-id="US: LAFF" group-title="USA NETWORK TV",US: LAFF TV | SD
-http://day1.fast.family/live/13140?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="US: BET (West) | HD" tvg-id="US: BET WEST" group-title="USA NETWORK TV",US: BET (West) | HD
 http://day1.fast.family/live/279?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="US: UP TV | HD" tvg-id="US: UPTV" group-title="USA NETWORK TV",US: UP TV | HD
@@ -739,142 +1309,44 @@ http://day1.fast.family/live/3826?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56
 http://day1.fast.family/live/3913?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="FR: CINE COMEDIE | HD" tvg-id="comedie.fr" group-title="FRANCE",FR: CINE COMEDIE | HD
 http://day1.fast.family/live/3823?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: TSN 3 | HD" tvg-id="CA: TSN3" group-title="CANADA SPORTS",CA: TSN 3 | HD
-http://day1.fast.family/live/2131?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 443" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 443
-http://day1.fast.family/live/2165?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: Optus Sport 2 | HD" tvg-id="" group-title="CANADA SPORTS",CA: Optus Sport 2 | HD
-http://day1.fast.family/live/74288?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: Optus Sport 3 | HD" tvg-id="" group-title="CANADA SPORTS",CA: Optus Sport 3 | HD
-http://day1.fast.family/live/74289?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: TSN 4 | HD" tvg-id="CA: TSN4" group-title="CANADA SPORTS",CA: TSN 4 | HD
-http://day1.fast.family/live/2132?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: GOLF | HD" tvg-id="CA: GOLF CHANNEL" group-title="CANADA SPORTS",CA: GOLF | HD
-http://day1.fast.family/live/2126?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 444" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 444
-http://day1.fast.family/live/2166?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: Optus Sport 4 | HD" tvg-id="" group-title="CANADA SPORTS",CA: Optus Sport 4 | HD
-http://day1.fast.family/live/74290?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: TSN 5 | HD" tvg-id="CA: TSN5" group-title="CANADA SPORTS",CA: TSN 5 | HD
-http://day1.fast.family/live/2133?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 450" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 450
-http://day1.fast.family/live/2167?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: Optus Sport 5 | HD" tvg-id="" group-title="CANADA SPORTS",CA: Optus Sport 5 | HD
-http://day1.fast.family/live/74291?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 461" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 461
-http://day1.fast.family/live/2168?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: Optus Sport 6 | HD" tvg-id="" group-title="CANADA SPORTS",CA: Optus Sport 6 | HD
-http://day1.fast.family/live/74292?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 462" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 462
-http://day1.fast.family/live/2169?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: Optus Sport 7 | HD" tvg-id="" group-title="CANADA SPORTS",CA: Optus Sport 7 | HD
-http://day1.fast.family/live/74302?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 473" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 473
-http://day1.fast.family/live/2170?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: SPORTSNET 360 | HD" tvg-id="CA: Sportsnet 360" group-title="CANADA SPORTS",CA: SPORTSNET 360 | HD
 http://day1.fast.family/live/2141?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: DAZN 5 | HD" tvg-id="" group-title="CANADA SPORTS",CA: DAZN 5 | HD
-http://day1.fast.family/live/74392?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 475" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 475
-http://day1.fast.family/live/2154?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: SPORTSNET EAST | HD" tvg-id="CA: Sports Net EAST" group-title="CANADA SPORTS",CA: SPORTSNET EAST | HD
 http://day1.fast.family/live/2140?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: DAZN 6 | HD" tvg-id="" group-title="CANADA SPORTS",CA: DAZN 6 | HD
-http://day1.fast.family/live/74393?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: TVA  Sports 2 | HD" tvg-id="tva.ca" group-title="CANADA SPORTS",CA: TVA  Sports 2 | HD
-http://day1.fast.family/live/2144?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 476" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 476
-http://day1.fast.family/live/2153?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 477" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 477
-http://day1.fast.family/live/2152?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SPORTSNET ONE | HD" tvg-id="sportsnet.one.ca" group-title="CANADA SPORTS",CA: SPORTSNET ONE | HD
-http://day1.fast.family/live/2139?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: DAZN 1 | HD" tvg-id="" group-title="CANADA SPORTS",CA: DAZN 1 | HD
 http://day1.fast.family/live/74394?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 478" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 478
-http://day1.fast.family/live/2151?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SPORTSNET ONTARIO | HD" tvg-id="CA: Sports Net Ontario" group-title="CANADA SPORTS",CA: SPORTSNET ONTARIO | HD
-http://day1.fast.family/live/2136?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: DAZN 2 | HD" tvg-id="" group-title="CANADA SPORTS",CA: DAZN 2 | HD
 http://day1.fast.family/live/74395?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 479" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 479
-http://day1.fast.family/live/2150?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: DAZN 3 | HD" tvg-id="" group-title="CANADA SPORTS",CA: DAZN 3 | HD
 http://day1.fast.family/live/74396?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SPORTSNET PPV | HD" tvg-id="" group-title="CANADA SPORTS",CA: SPORTSNET PPV | HD
-http://day1.fast.family/live/2142?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 480" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 480
-http://day1.fast.family/live/2149?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: DAZN 4 | HD" tvg-id="" group-title="CANADA SPORTS",CA: DAZN 4 | HD
 http://day1.fast.family/live/74397?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="CA: DAZN 5 | HD" tvg-id="" group-title="CANADA SPORTS",CA: DAZN 5 | HD
+http://day1.fast.family/live/74392?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="CA: DAZN 6 | HD" tvg-id="" group-title="CANADA SPORTS",CA: DAZN 6 | HD
+http://day1.fast.family/live/74393?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: TVA Sports | HD" tvg-id="CA: TVA SPORTS" group-title="CANADA SPORTS",CA: TVA Sports | HD
 http://day1.fast.family/live/2143?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 481" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 481
-http://day1.fast.family/live/2148?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="CA: TVA  Sports 2 | HD" tvg-id="tva.ca" group-title="CANADA SPORTS",CA: TVA  Sports 2 | HD
+http://day1.fast.family/live/2144?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: NBA TV | HD" tvg-id="CA: NBA TV" group-title="CANADA SPORTS",CA: NBA TV | HD
 http://day1.fast.family/live/2124?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 482" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 482
-http://day1.fast.family/live/2147?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SPORTSNET ONTARIO | HD*" tvg-id="CA: Sports Net Ontario" group-title="CANADA SPORTS",CA: SPORTSNET ONTARIO | HD*
-http://day1.fast.family/live/2138?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SPORTSNET ONTARIO | SD" tvg-id="CA: Sports Net Ontario" group-title="CANADA SPORTS",CA: SPORTSNET ONTARIO | SD
-http://day1.fast.family/live/2137?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SPORTSNET PACIFIC | HD" tvg-id="CA: Sports Net Pacifique" group-title="CANADA SPORTS",CA: SPORTSNET PACIFIC | HD
-http://day1.fast.family/live/2135?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: NFL NETWORK | HD" tvg-id="nfl.network.ca" group-title="CANADA SPORTS",CA: NFL NETWORK | HD
 http://day1.fast.family/live/2123?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: FIGHT NETWORK | HD" tvg-id="CA: FIGHT NETWORK" group-title="CANADA SPORTS",CA: FIGHT NETWORK | HD
 http://day1.fast.family/live/2127?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SPORTSNET WEST | HD" tvg-id="CA: Sports Net West" group-title="CANADA SPORTS",CA: SPORTSNET WEST | HD
-http://day1.fast.family/live/2134?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 483" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 483
-http://day1.fast.family/live/2146?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 484" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 484
-http://day1.fast.family/live/2145?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: Fox Sports Racing | HD" tvg-id="fox.sports.racing.us" group-title="CANADA SPORTS",CA: Fox Sports Racing | HD
-http://day1.fast.family/live/2128?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 368" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 368
-http://day1.fast.family/live/2155?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 432" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 432
-http://day1.fast.family/live/2156?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 436" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 436
-http://day1.fast.family/live/2157?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 436" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 436
-http://day1.fast.family/live/2158?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 437" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 437
-http://day1.fast.family/live/2159?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 438" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 438
-http://day1.fast.family/live/2160?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 439" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 439
-http://day1.fast.family/live/2161?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 440" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 440
-http://day1.fast.family/live/2162?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SPORTSNET WORLD | HD" tvg-id="CA: Sportsnet World" group-title="CANADA SPORTS",CA: SPORTSNET WORLD | HD
-http://day1.fast.family/live/71461?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: BEIN SPORTS | HD" tvg-id="bein.sport.canada.ca" group-title="CANADA SPORTS",CA: BEIN SPORTS | HD
-http://day1.fast.family/live/2122?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: TSN 1 | HD" tvg-id="CA: TSN1" group-title="CANADA SPORTS",CA: TSN 1 | HD
 http://day1.fast.family/live/2129?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 441" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 441
-http://day1.fast.family/live/2163?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: MLB NETWORK | HD" tvg-id="mlb.network.ca" group-title="CANADA SPORTS",CA: MLB NETWORK | HD
-http://day1.fast.family/live/2125?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: TSN 2 | HD" tvg-id="CA: TSN2" group-title="CANADA SPORTS",CA: TSN 2 | HD
 http://day1.fast.family/live/2130?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: SUPER SPORTS CH 442" tvg-id="" group-title="CANADA SPORTS",CA: SUPER SPORTS CH 442
-http://day1.fast.family/live/2164?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: Optus Sport 1 | HD" tvg-id="" group-title="CANADA SPORTS",CA: Optus Sport 1 | HD
-http://day1.fast.family/live/74287?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: GLOBAL VANCOUVER | SD" tvg-id="CA: GLOBAL VANCOUVER BC" group-title="CANADA LOCALS",CA: GLOBAL VANCOUVER | SD
-http://day1.fast.family/live/2087?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="CA: TSN 3 | HD" tvg-id="CA: TSN3" group-title="CANADA SPORTS",CA: TSN 3 | HD
+http://day1.fast.family/live/2131?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="CA: TSN 4 | HD" tvg-id="CA: TSN4" group-title="CANADA SPORTS",CA: TSN 4 | HD
+http://day1.fast.family/live/2132?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+#EXTINF:-1 tvg-name="CA: TSN 5 | HD" tvg-id="CA: TSN5" group-title="CANADA SPORTS",CA: TSN 5 | HD
+http://day1.fast.family/live/2133?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: TV5 Quebec (FR) | HD" tvg-id="CA: TV5 QUEBEC" group-title="CANADA LOCALS",CA: TV5 Quebec (FR) | HD
 http://day1.fast.family/live/2091?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: TV5 Quebec (FR) | SD" tvg-id="CA: TV5 QUEBEC" group-title="CANADA LOCALS",CA: TV5 Quebec (FR) | SD
-http://day1.fast.family/live/2094?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: CBC CALGARY | HD" tvg-id="CA: CBC CALGARY" group-title="CANADA LOCALS",CA: CBC CALGARY | HD
-http://day1.fast.family/live/2065?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: TVA Gatineau (FR) | HD" tvg-id="" group-title="CANADA LOCALS",CA: TVA Gatineau (FR) | HD
-http://day1.fast.family/live/2095?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: CBC Montreal HD" tvg-id="CA: CBC MONTREAL QUEBEC" group-title="CANADA LOCALS",CA: CBC Montreal HD
 http://day1.fast.family/live/2064?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: TVA Montreal (CFTM) | HD" tvg-id="CA: CFTM TVA MONTREAL QUEBEC" group-title="CANADA LOCALS",CA: TVA Montreal (CFTM) | HD
@@ -913,62 +1385,8 @@ http://day1.fast.family/live/2062?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56
 http://day1.fast.family/live/2076?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: Tele-Quebec | HD" tvg-id="CA: TELE QUEBEC CIVM" group-title="CANADA LOCALS",CA: Tele-Quebec | HD
 http://day1.fast.family/live/2097?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: CITY CALGARY | SD" tvg-id="CA: CITY CALGARY" group-title="CANADA LOCALS",CA: CITY CALGARY | SD
-http://day1.fast.family/live/2080?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="CA: CITY MONTREAL | SD" tvg-id="CA: CITY MONTREAL QUEBEC" group-title="CANADA LOCALS",CA: CITY MONTREAL | SD
 http://day1.fast.family/live/2081?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: CTV TORONTO (CFTO) | HD" tvg-id="CA: CTV TORONTO" group-title="CANADA LOCALS",CA: CTV TORONTO (CFTO) | HD
-http://day1.fast.family/live/2071?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: CITY TORONTO | SD" tvg-id="CA: CITY TORONTO" group-title="CANADA LOCALS",CA: CITY TORONTO | SD
-http://day1.fast.family/live/2082?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: CTV TORONTO | HD" tvg-id="CA: CTV TORONTO" group-title="CANADA LOCALS",CA: CTV TORONTO | HD
-http://day1.fast.family/live/2077?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: CITY VANCOUVER | SD" tvg-id="CA: CITY VANCOUVER" group-title="CANADA LOCALS",CA: CITY VANCOUVER | SD
-http://day1.fast.family/live/2083?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: CTV Two Atlantic | SD" tvg-id="ctv2.atlantic.region.ca" group-title="CANADA LOCALS",CA: CTV Two Atlantic | SD
-http://day1.fast.family/live/2070?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: CTV VANCOUVER | SD" tvg-id="CA: CTV VANCOUVER BC" group-title="CANADA LOCALS",CA: CTV VANCOUVER | SD
-http://day1.fast.family/live/2078?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: GLOBAL HALIFAX | SD" tvg-id="CA: GLOBAL HALIFAX" group-title="CANADA LOCALS",CA: GLOBAL HALIFAX | SD
-http://day1.fast.family/live/2085?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: GLOBAL NEWBRUNSWICK | SD" tvg-id="" group-title="CANADA LOCALS",CA: GLOBAL NEWBRUNSWICK | SD
-http://day1.fast.family/live/2088?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: CTV2 OTTAWA | SD" tvg-id="ctv2.ottawa.on.ca" group-title="CANADA LOCALS",CA: CTV2 OTTAWA | SD
-http://day1.fast.family/live/2079?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: City Toronto | HD" tvg-id="CA: CITY TORONTO" group-title="CANADA LOCALS",CA: City Toronto | HD
-http://day1.fast.family/live/2084?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: GLOBAL TORONTO (CIII) | HD" tvg-id="CA: GLOBAL TORONTO" group-title="CANADA LOCALS",CA: GLOBAL TORONTO (CIII) | HD
-http://day1.fast.family/live/2089?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="CA: GLOBAL TORONTO | HD" tvg-id="CA: GLOBAL TORONTO" group-title="CANADA LOCALS",CA: GLOBAL TORONTO | HD
-http://day1.fast.family/live/2086?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD 10" tvg-id="" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD 10
-http://day1.fast.family/live/2337?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD 11" tvg-id="" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD 11
-http://day1.fast.family/live/2338?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD 12" tvg-id="" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD 12
-http://day1.fast.family/live/2339?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD Maximo" tvg-id="" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD Maximo
-http://day1.fast.family/live/2340?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD Blitz" tvg-id="" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD Blitz
-http://day1.fast.family/live/2341?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | UHD 1" tvg-id="SuperSport 1" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | UHD 1
-http://day1.fast.family/live/2328?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD 2" tvg-id="SuperSport 2" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD 2
-http://day1.fast.family/live/2329?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD 3" tvg-id="SuperSport 3" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD 3
-http://day1.fast.family/live/2330?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD 4" tvg-id="SuperSport 4" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD 4
-http://day1.fast.family/live/2331?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD 5" tvg-id="SuperSport 5" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD 5
-http://day1.fast.family/live/2332?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD 6" tvg-id="SuperSport 6" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD 6
-http://day1.fast.family/live/2333?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD 7" tvg-id="SuperSport 7" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD 7
-http://day1.fast.family/live/2334?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD 8" tvg-id="SuperSport 8" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD 8
-http://day1.fast.family/live/2335?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="AF: SuperSport | HD 9" tvg-id="SuperSport 9" group-title="AFRICAN SUPER SPORTS",AF: SuperSport | HD 9
-http://day1.fast.family/live/2336?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="FR: ZOUZOU TV HD" tvg-id="" group-title="France",FR: ZOUZOU TV HD
 http://day4.fast.family/live/217?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="FR: ZAP VIVA" tvg-id="" group-title="France",FR: ZAP VIVA
@@ -1947,609 +2365,4 @@ http://day3.fast.family/live/50447?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff5
 http://day3.fast.family/live/50448?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
 #EXTINF:-1 tvg-name="NBA 20" tvg-id="" group-title="NBA",NBA 20
 http://day3.fast.family/live/50449?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  Family" tvg-id="" group-title="France",FR: Canal  Family
-http://day3.fast.family/live/41888?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS 3 FHD" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 3 FHD
-http://day3.fast.family/live/44559?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SFR Sport 1" tvg-id="" group-title="France",FR: SFR Sport 1
-http://day3.fast.family/live/41844?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Franceinfo" tvg-id="" group-title="France",FR: Franceinfo
-http://day3.fast.family/live/41859?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  HD" tvg-id="CanalPlus.fr" group-title="France",FR: Canal  HD
-http://day3.fast.family/live/41887?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Eurosport 1 HD" tvg-id="cartoonito.uk" group-title="France",FR: Eurosport 1 HD
-http://day3.fast.family/live/44546?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SFR Sport 2" tvg-id="" group-title="France",FR: SFR Sport 2
-http://day3.fast.family/live/41843?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Game One HD" tvg-id="" group-title="France",FR: Game One HD
-http://day3.fast.family/live/41811?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  Series" tvg-id="cartoonito.uk" group-title="France",FR: Canal  Series
-http://day3.fast.family/live/41885?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: EUROSPORT 1 FHD" tvg-id="cartoonito.uk" group-title="France",FR: EUROSPORT 1 FHD
-http://day3.fast.family/live/44547?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SFR Sport 3" tvg-id="" group-title="France",FR: SFR Sport 3
-http://day3.fast.family/live/41842?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Golf TV" tvg-id="" group-title="France",FR: Golf TV
-http://day3.fast.family/live/41847?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  Sport HD" tvg-id="CanalPlusSport.fr" group-title="France",FR: Canal  Sport HD
-http://day3.fast.family/live/41886?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Eurosport 2 HD" tvg-id="cartoonito.uk" group-title="France",FR: Eurosport 2 HD
-http://day3.fast.family/live/44544?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SFR Sport 5" tvg-id="" group-title="France",FR: SFR Sport 5
-http://day3.fast.family/live/41841?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Gulli" tvg-id="cartoonito.uk" group-title="France",FR: Gulli
-http://day3.fast.family/live/41884?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal J HD" tvg-id="" group-title="France",FR: Canal J HD
-http://day3.fast.family/live/41833?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: EUROSPORT 2 FHD" tvg-id="cartoonito.uk" group-title="France",FR: EUROSPORT 2 FHD
-http://day3.fast.family/live/44545?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Syfy HD" tvg-id="" group-title="France",FR: Syfy HD
-http://day3.fast.family/live/41836?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: HD1" tvg-id="" group-title="France",FR: HD1
-http://day3.fast.family/live/41854?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Cartoon Network HD" tvg-id="" group-title="France",FR: Cartoon Network HD
-http://day3.fast.family/live/41813?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Infosport  FHD" tvg-id="InfosportPlus.fr" group-title="France",FR: Infosport  FHD
-http://day3.fast.family/live/44549?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TCM Cinema HD" tvg-id="" group-title="France",FR: TCM Cinema HD
-http://day3.fast.family/live/41827?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Histoire" tvg-id="" group-title="France",FR: Histoire
-http://day3.fast.family/live/41848?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Infosport  HD" tvg-id="" group-title="France",FR: Infosport  HD
-http://day3.fast.family/live/41821?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Cherie 25" tvg-id="" group-title="France",FR: Cherie 25
-http://day3.fast.family/live/41855?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TF1" tvg-id="TF1.fr" group-title="France",FR: TF1
-http://day3.fast.family/live/41881?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: LCI" tvg-id="" group-title="France",FR: LCI
-http://day3.fast.family/live/41853?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE  classic HD" tvg-id="" group-title="France",FR: CINE  classic HD
-http://day3.fast.family/live/41867?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Tiji HD" tvg-id="" group-title="France",FR: Tiji HD
-http://day3.fast.family/live/41838?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: LCP" tvg-id="" group-title="France",FR: LCP
-http://day3.fast.family/live/41860?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Cine  Emotion HD" tvg-id="" group-title="France",FR: Cine  Emotion HD
-http://day3.fast.family/live/41834?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TMC" tvg-id="TCM.fr" group-title="France",FR: TMC
-http://day3.fast.family/live/41872?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: LEquipe 21" tvg-id="" group-title="France",FR: LEquipe 21
-http://day3.fast.family/live/41869?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Cine  Famiz" tvg-id="" group-title="France",FR: Cine  Famiz
-http://day3.fast.family/live/41866?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: L'" tvg-id="LCI.fr" group-title="France",FR: L'
-http://day3.fast.family/live/44548?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Trace Urban HD" tvg-id="" group-title="France",FR: Trace Urban HD
-http://day3.fast.family/live/41835?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: M6" tvg-id="M6.fr" group-title="France",FR: M6
-http://day3.fast.family/live/41876?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SFR SPORT 2 HD" tvg-id="KombatSport.pt" group-title="France",FR: SFR SPORT 2 HD
-http://day3.fast.family/live/44553?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TV Breizh HD" tvg-id="" group-title="France",FR: TV Breizh HD
-http://day3.fast.family/live/41820?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TV8 Mont-Blanc HD" tvg-id="" group-title="France",FR: TV8 Mont-Blanc HD
-http://day3.fast.family/live/41830?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Mangas" tvg-id="" group-title="France",FR: Mangas
-http://day3.fast.family/live/41846?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SFR SPORT 2 FHD" tvg-id="" group-title="France",FR: SFR SPORT 2 FHD
-http://day3.fast.family/live/44554?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Voyage" tvg-id="" group-title="France",FR: Voyage
-http://day3.fast.family/live/41857?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: MCM HD" tvg-id="" group-title="France",FR: MCM HD
-http://day3.fast.family/live/41828?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="RMC SPORT 1 FHD" tvg-id="" group-title="France",RMC SPORT 1 FHD
-http://day3.fast.family/live/44556?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: W9" tvg-id="" group-title="France",FR: W9
-http://day3.fast.family/live/41882?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: MCM Top HD" tvg-id="" group-title="France",FR: MCM Top HD
-http://day3.fast.family/live/41815?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE  Frisson" tvg-id="CinePlusFrisson.fr" group-title="France",FR: CINE  Frisson
-http://day3.fast.family/live/41891?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="RMC SPORT ACCESS 1 HD" tvg-id="" group-title="France",RMC SPORT ACCESS 1 HD
-http://day3.fast.family/live/44550?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Cine  Premier" tvg-id="" group-title="France",FR: Cine  Premier
-http://day3.fast.family/live/41865?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="RMC SPORT ACCESS 1 FHD" tvg-id="" group-title="France",RMC SPORT ACCESS 1 FHD
-http://day3.fast.family/live/44555?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="RMC SPORT ACCESS 2 HD" tvg-id="" group-title="France",RMC SPORT ACCESS 2 HD
-http://day3.fast.family/live/44552?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CNews" tvg-id="cartoonito.uk" group-title="France",FR: CNews
-http://day3.fast.family/live/41873?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="RMC SPORT ACCESS 3 HD" tvg-id="" group-title="France",RMC SPORT ACCESS 3 HD
-http://day3.fast.family/live/44551?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Comedie  HD" tvg-id="" group-title="France",FR: Comedie  HD
-http://day3.fast.family/live/41818?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="beIN SPORTS HD 1 FR (1080P)" tvg-id="" group-title="France",beIN SPORTS HD 1 FR (1080P)
-http://day3.fast.family/live/44568?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Mezzo Live HD" tvg-id="" group-title="France",FR: Mezzo Live HD
-http://day3.fast.family/live/41825?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CSTAR" tvg-id="" group-title="France",FR: CSTAR
-http://day3.fast.family/live/41870?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="beIN SPORTS HD 2 FR (1080P)" tvg-id="" group-title="France",beIN SPORTS HD 2 FR (1080P)
-http://day3.fast.family/live/44567?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: MTV France HD" tvg-id="" group-title="France",FR: MTV France HD
-http://day3.fast.family/live/41837?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Discovery Science HD" tvg-id="" group-title="France",FR: Discovery Science HD
-http://day3.fast.family/live/41824?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="beIN SPORTS HD 3 FR (1080P)" tvg-id="" group-title="France",beIN SPORTS HD 3 FR (1080P)
-http://day3.fast.family/live/44566?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: National Geo HD" tvg-id="" group-title="France",FR: National Geo HD
-http://day3.fast.family/live/41845?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Disney Cinema HD" tvg-id="" group-title="France",FR: Disney Cinema HD
-http://day3.fast.family/live/41832?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: 6TER" tvg-id="" group-title="France",FR: 6TER
-http://day3.fast.family/live/41856?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Nickelodeon" tvg-id="" group-title="France",FR: Nickelodeon
-http://day3.fast.family/live/41862?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Disney HD" tvg-id="" group-title="France",FR: Disney HD
-http://day3.fast.family/live/41858?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: E! HD" tvg-id="" group-title="France",FR: E! HD
-http://day3.fast.family/live/41831?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: AB 1" tvg-id="" group-title="France",FR: AB 1
-http://day3.fast.family/live/41850?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: NRJ12" tvg-id="NRJ12.fr" group-title="France",FR: NRJ12
-http://day3.fast.family/live/41883?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Elle Girl HD" tvg-id="" group-title="France",FR: Elle Girl HD
-http://day3.fast.family/live/41816?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Action HD" tvg-id="" group-title="France",FR: Action HD
-http://day3.fast.family/live/41829?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: NT1" tvg-id="" group-title="France",FR: NT1
-http://day3.fast.family/live/41871?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Equidia Live HD" tvg-id="" group-title="France",FR: Equidia Live HD
-http://day3.fast.family/live/41812?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Animaux" tvg-id="" group-title="France",FR: Animaux
-http://day3.fast.family/live/41849?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Numero 23" tvg-id="" group-title="France",FR: Numero 23
-http://day3.fast.family/live/41852?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Eurosport 1" tvg-id="" group-title="France",FR: Eurosport 1
-http://day3.fast.family/live/41864?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Arte" tvg-id="ARTE.fr" group-title="France",FR: Arte
-http://day3.fast.family/live/41874?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS 1" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 1
-http://day3.fast.family/live/44563?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Paramount Channel HD" tvg-id="" group-title="France",FR: Paramount Channel HD
-http://day3.fast.family/live/41826?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Eurosport 2" tvg-id="" group-title="France",FR: Eurosport 2
-http://day3.fast.family/live/41863?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Be Curious TV HD" tvg-id="" group-title="France",FR: Be Curious TV HD
-http://day3.fast.family/live/41810?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS 1 HD" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 1 HD
-http://day3.fast.family/live/44564?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Planete  AE HD" tvg-id="" group-title="France",FR: Planete  AE HD
-http://day3.fast.family/live/41823?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Planete  CI HD" tvg-id="" group-title="France",FR: Planete  CI HD
-http://day3.fast.family/live/41819?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: France 2" tvg-id="cartoonito.uk" group-title="France",FR: France 2
-http://day3.fast.family/live/41880?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: BFM TV" tvg-id="BFMTV.fr" group-title="France",FR: BFM TV
-http://day3.fast.family/live/41892?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS 1 FHD" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 1 FHD
-http://day3.fast.family/live/44565?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS 2" tvg-id="" group-title="France",FR: beIN SPORTS 2
-http://day3.fast.family/live/44560?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Planete  HD" tvg-id="" group-title="France",FR: Planete  HD
-http://day3.fast.family/live/41814?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: France 24" tvg-id="cartoonito.uk" group-title="France",FR: France 24
-http://day3.fast.family/live/41893?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Boing HD" tvg-id="" group-title="France",FR: Boing HD
-http://day3.fast.family/live/41839?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS 2 HD" tvg-id="" group-title="France",FR: beIN SPORTS 2 HD
-http://day3.fast.family/live/44561?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: RFM TV HD" tvg-id="" group-title="France",FR: RFM TV HD
-http://day3.fast.family/live/41817?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: France 3" tvg-id="cartoonito.uk" group-title="France",FR: France 3
-http://day3.fast.family/live/41879?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Boomerang HD" tvg-id="" group-title="France",FR: Boomerang HD
-http://day3.fast.family/live/41840?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS 2 FHD" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 2 FHD
-http://day3.fast.family/live/44562?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: RMC Docouverte" tvg-id="" group-title="France",FR: RMC Docouverte
-http://day3.fast.family/live/41868?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: France 4" tvg-id="cartoonito.uk" group-title="France",FR: France 4
-http://day3.fast.family/live/41878?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: C8" tvg-id="C8.fr" group-title="France",FR: C8
-http://day3.fast.family/live/41875?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS 3" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 3
-http://day3.fast.family/live/44557?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Science & Vie HD" tvg-id="" group-title="France",FR: Science & Vie HD
-http://day3.fast.family/live/41851?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: France 5" tvg-id="cartoonito.uk" group-title="France",FR: France 5
-http://day3.fast.family/live/41877?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  Cinema HD" tvg-id="cartoonito.uk" group-title="France",FR: Canal  Cinema HD
-http://day3.fast.family/live/41890?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS 3 HD" tvg-id="cartoonito.uk" group-title="France",FR: beIN SPORTS 3 HD
-http://day3.fast.family/live/44558?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Seasons HD" tvg-id="" group-title="France",FR: Seasons HD
-http://day3.fast.family/live/41822?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: France O" tvg-id="" group-title="France",FR: France O
-http://day3.fast.family/live/41861?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  Decale" tvg-id="cartoonito.uk" group-title="France",FR: Canal  Decale
-http://day3.fast.family/live/41889?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Bein max 4(1)" tvg-id="bein4max.fr" group-title="France",FR: Bein max 4(1)
-http://day2.fast.family/live/2865?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR : EURONEWS" tvg-id="" group-title="France",FR : EURONEWS
-http://day2.fast.family/live/1550?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: FRANCE 3" tvg-id="france3.fr" group-title="France",FR: FRANCE 3
-http://day2.fast.family/live/529?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: RTL9" tvg-id="RTL9 FR" group-title="France",FR: RTL9
-http://day2.fast.family/live/246?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TELETOON + FHD" tvg-id="teletoonplus.fr" group-title="France",FR: TELETOON + FHD
-http://day2.fast.family/live/1548?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: W9" tvg-id="w9.fr" group-title="France",FR: W9
-http://day2.fast.family/live/341?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: BOOMERANG HD" tvg-id="boomerang.fr" group-title="France",FR: BOOMERANG HD
-http://day2.fast.family/live/5863?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Boing" tvg-id="boing.fr" group-title="France",FR: Boing
-http://day2.fast.family/live/5864?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR:  Cartoon Network HD" tvg-id="cartoonnetwork.fr" group-title="France",FR:  Cartoon Network HD
-http://day2.fast.family/live/1547?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Discovery Science HD" tvg-id="discoveryscience.fr" group-title="France",FR: Discovery Science HD
-http://day2.fast.family/live/1528?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR:  Disney Jr Fr" tvg-id="disneyjunior.fr" group-title="France",FR:  Disney Jr Fr
-http://day2.fast.family/live/1546?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR:  Nat Geo HD" tvg-id="natgeo.fr" group-title="France",FR:  Nat Geo HD
-http://day2.fast.family/live/1535?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR:  Nat Geo Wild  HD" tvg-id="natgeowild.fr" group-title="France",FR:  Nat Geo Wild  HD
-http://day2.fast.family/live/1534?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR:  NRJ12 HD" tvg-id="nrj12.fr" group-title="France",FR:  NRJ12 HD
-http://day2.fast.family/live/1540?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: 13 EME RUE HD" tvg-id="13e Rue" group-title="France",FR: 13 EME RUE HD
-http://day2.fast.family/live/4961?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: 6TER HD" tvg-id="" group-title="France",FR: 6TER HD
-http://day2.fast.family/live/248?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: A LA CARTE 10" tvg-id="" group-title="France",FR: A LA CARTE 10
-http://day2.fast.family/live/1554?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: A LA CARTE 7" tvg-id="" group-title="France",FR: A LA CARTE 7
-http://day2.fast.family/live/1557?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: A LA CARTE 8" tvg-id="" group-title="France",FR: A LA CARTE 8
-http://day2.fast.family/live/1556?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: A LA CARTE 9" tvg-id="" group-title="France",FR: A LA CARTE 9
-http://day2.fast.family/live/1555?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: AB Moteur HD" tvg-id="abmoteurs.fr" group-title="France",FR: AB Moteur HD
-http://day2.fast.family/live/4976?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: AB1" tvg-id="ab1.fr" group-title="France",FR: AB1
-http://day2.fast.family/live/4966?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: AB3" tvg-id="ab3.fr" group-title="France",FR: AB3
-http://day2.fast.family/live/4968?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: ACTION" tvg-id="action.fr" group-title="France",FR: ACTION
-http://day2.fast.family/live/4973?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: ANIMAUX" tvg-id="animaux.fr" group-title="France",FR: ANIMAUX
-http://day2.fast.family/live/4985?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: ARTE HD" tvg-id="arte.fr" group-title="France",FR: ARTE HD
-http://day2.fast.family/live/4405?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Bein Sport Max 9 HD" tvg-id="BEIN SPORTS MAX 9" group-title="France",FR: Bein Sport Max 9 HD
-http://day2.fast.family/live/5622?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Bein Sport Max 8" tvg-id="BEIN SPORTS MAX 8" group-title="France",FR: Bein Sport Max 8
-http://day2.fast.family/live/5621?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Bein Sport Max 7" tvg-id="BEIN SPORTS MAX 7" group-title="France",FR: Bein Sport Max 7
-http://day2.fast.family/live/5620?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Bein Sport Max 6" tvg-id="BEIN SPORTS MAX 6" group-title="France",FR: Bein Sport Max 6
-http://day2.fast.family/live/5619?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Bein Sport Max 5" tvg-id="BEIN SPORTS MAX 5" group-title="France",FR: Bein Sport Max 5
-http://day2.fast.family/live/5618?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Bein Sport Max 10" tvg-id="BEIN SPORTS MAX 10" group-title="France",FR: Bein Sport Max 10
-http://day2.fast.family/live/5623?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: D8" tvg-id="D8" group-title="France",FR: D8
-http://day2.fast.family/live/243?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: C8" tvg-id="c8.fr" group-title="France",FR: C8
-http://day2.fast.family/live/4993?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  Cinema" tvg-id="" group-title="France",FR: Canal  Cinema
-http://day2.fast.family/live/255?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  Decale" tvg-id="" group-title="France",FR: Canal  Decale
-http://day2.fast.family/live/254?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  Family" tvg-id="" group-title="France",FR: Canal  Family
-http://day2.fast.family/live/253?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  Series" tvg-id="" group-title="France",FR: Canal  Series
-http://day2.fast.family/live/252?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  Sport" tvg-id="" group-title="France",FR: Canal  Sport
-http://day2.fast.family/live/251?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CANAL J" tvg-id="canalj.fr" group-title="France",FR: CANAL J
-http://day2.fast.family/live/1545?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CANAL PLAY 1" tvg-id="" group-title="France",FR: CANAL PLAY 1
-http://day2.fast.family/live/3749?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CANAL PLAY 2" tvg-id="" group-title="France",FR: CANAL PLAY 2
-http://day2.fast.family/live/3748?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CANAL PLAY 3" tvg-id="" group-title="France",FR: CANAL PLAY 3
-http://day2.fast.family/live/3747?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CANAL PLAY 4" tvg-id="" group-title="France",FR: CANAL PLAY 4
-http://day2.fast.family/live/3746?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CANAL PLAY 5" tvg-id="" group-title="France",FR: CANAL PLAY 5
-http://day2.fast.family/live/3745?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CANAL PLAY 6" tvg-id="" group-title="France",FR: CANAL PLAY 6
-http://day2.fast.family/live/3744?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CANAL PLAY 7" tvg-id="" group-title="France",FR: CANAL PLAY 7
-http://day2.fast.family/live/3743?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Chasse et Peche" tvg-id="chassepeche.fr" group-title="France",FR: Chasse et Peche
-http://day2.fast.family/live/3742?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CHERIE 25 HD" tvg-id="cherie25.fr" group-title="France",FR: CHERIE 25 HD
-http://day2.fast.family/live/4958?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE CLASSIC" tvg-id="" group-title="France",FR: CINE CLASSIC
-http://day2.fast.family/live/3739?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE CLASSIC HD" tvg-id="" group-title="France",FR: CINE CLASSIC HD
-http://day2.fast.family/live/3733?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE EMOTION" tvg-id="" group-title="France",FR: CINE EMOTION
-http://day2.fast.family/live/4971?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE EMOTION HD" tvg-id="" group-title="France",FR: CINE EMOTION HD
-http://day2.fast.family/live/3738?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE FAMIZ" tvg-id="Cine+ Famiz HD FR" group-title="France",FR: CINE FAMIZ
-http://day2.fast.family/live/3737?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Cine Famiz HD" tvg-id="Cine+ Famiz HD FR" group-title="France",FR: Cine Famiz HD
-http://day2.fast.family/live/4972?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE FRISSON" tvg-id="Cine+ Frisson HD FR" group-title="France",FR: CINE FRISSON
-http://day2.fast.family/live/3736?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE FRISSON HD" tvg-id="Cine+ Premier HD FR" group-title="France",FR: CINE FRISSON HD
-http://day2.fast.family/live/4970?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE FX" tvg-id="cinefx.fr" group-title="France",FR: CINE FX
-http://day2.fast.family/live/256?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE POLAR" tvg-id="Ciné Polar" group-title="France",FR: CINE POLAR
-http://day2.fast.family/live/3735?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE PREMIER HD" tvg-id="" group-title="France",FR: CINE PREMIER HD
-http://day2.fast.family/live/3734?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: COMEDIE  HD" tvg-id="comedieplus.fr" group-title="France",FR: COMEDIE  HD
-http://day2.fast.family/live/1539?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Comedie +" tvg-id="comedieplus.fr" group-title="France",FR: Comedie +
-http://day2.fast.family/live/4964?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CSTAR HD" tvg-id="cstar.fr" group-title="France",FR: CSTAR HD
-http://day2.fast.family/live/4992?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CANAL+ HD" tvg-id="canalplus.fr" group-title="France",FR: CANAL+ HD
-http://day2.fast.family/live/250?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: BFM TV" tvg-id="bfmtv.fr" group-title="France",FR: BFM TV
-http://day2.fast.family/live/1549?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: GULLI HD" tvg-id="gulli.fr" group-title="France",FR: GULLI HD
-http://day2.fast.family/live/4957?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: GAME ONE" tvg-id="gameone.fr" group-title="France",FR: GAME ONE
-http://day2.fast.family/live/4967?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: France O  HD" tvg-id="franceo.fr" group-title="France",FR: France O  HD
-http://day2.fast.family/live/532?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: France 5 HD" tvg-id="france5.fr" group-title="France",FR: France 5 HD
-http://day2.fast.family/live/531?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: France 4  HD" tvg-id="france4.fr" group-title="France",FR: France 4  HD
-http://day2.fast.family/live/530?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: FRANCE 2" tvg-id="france2.fr" group-title="France",FR: FRANCE 2
-http://day2.fast.family/live/528?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: EUROSPORT2" tvg-id="eurosport2.fr" group-title="France",FR: EUROSPORT2
-http://day2.fast.family/live/1542?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Eurosport 2" tvg-id="eurosport2.fr" group-title="France",FR: Eurosport 2
-http://day2.fast.family/live/4975?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Eurosport 1" tvg-id="eurosport1.fr" group-title="France",FR: Eurosport 1
-http://day2.fast.family/live/1541?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: EQUIDIA live" tvg-id="equidialive.fr" group-title="France",FR: EQUIDIA live
-http://day2.fast.family/live/4990?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Disney XD HD" tvg-id="disneyxd.fr" group-title="France",FR: Disney XD HD
-http://day2.fast.family/live/1553?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: DISNEY CINEMA" tvg-id="disneycinema.fr" group-title="France",FR: DISNEY CINEMA
-http://day2.fast.family/live/1543?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: DISNEY CHANNEL" tvg-id="disneychannel.fr" group-title="France",FR: DISNEY CHANNEL
-http://day2.fast.family/live/1544?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: i Tele" tvg-id="i-Télé HD FR" group-title="France",FR: i Tele
-http://day2.fast.family/live/4956?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: INFOSPORT" tvg-id="" group-title="France",FR: INFOSPORT
-http://day2.fast.family/live/4978?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: L'EQUIPE 21" tvg-id="lequipe21.fr" group-title="France",FR: L'EQUIPE 21
-http://day2.fast.family/live/4977?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: La Deux" tvg-id="La Deux" group-title="France",FR: La Deux
-http://day2.fast.family/live/3731?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: La une BE" tvg-id="La Une" group-title="France",FR: La une BE
-http://day2.fast.family/live/3730?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: LCI" tvg-id="lci.fr" group-title="France",FR: LCI
-http://day2.fast.family/live/4955?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: M6" tvg-id="m6.fr" group-title="France",FR: M6
-http://day2.fast.family/live/242?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Mangas" tvg-id="mangas.fr" group-title="France",FR: Mangas
-http://day2.fast.family/live/3728?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: National geo wild" tvg-id="natgeowild.fr" group-title="France",FR: National geo wild
-http://day2.fast.family/live/3727?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: NICKELODEON JUNIOR" tvg-id="nickjr.fr" group-title="France",FR: NICKELODEON JUNIOR
-http://day2.fast.family/live/1533?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: NRJ Hits" tvg-id="nrjhits.fr" group-title="France",FR: NRJ Hits
-http://day2.fast.family/live/3726?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: NUMERO 23 HD" tvg-id="6ter.fr" group-title="France",FR: NUMERO 23 HD
-http://day2.fast.family/live/1527?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: OCS CHOC HD" tvg-id="ocschoc.fr" group-title="France",FR: OCS CHOC HD
-http://day2.fast.family/live/4969?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: OCS CITY" tvg-id="ocscity.fr" group-title="France",FR: OCS CITY
-http://day2.fast.family/live/261?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: OCS GEANT" tvg-id="ocsgeants.fr" group-title="France",FR: OCS GEANT
-http://day2.fast.family/live/260?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: OCS MAX" tvg-id="ocsmax.fr" group-title="France",FR: OCS MAX
-http://day2.fast.family/live/259?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: OLTV HD" tvg-id="oltv.fr" group-title="France",FR: OLTV HD
-http://day2.fast.family/live/4979?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-id="paramountchannel.fr" group-title="France",FR: PARAMOUNT CHANNEL HD
-http://day2.fast.family/live/1537?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: PARIS PREMIERE  HD" tvg-id="parispremiere.fr" group-title="France",FR: PARIS PREMIERE  HD
-http://day2.fast.family/live/1538?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: PARIS PREMIERE HD" tvg-id="parispremiere.fr" group-title="France",FR: PARIS PREMIERE HD
-http://day2.fast.family/live/4959?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: PIWI HD" tvg-id="piwi.fr" group-title="France",FR: PIWI HD
-http://day2.fast.family/live/4988?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: PLANETE  HD" tvg-id="" group-title="France",FR: PLANETE  HD
-http://day2.fast.family/live/4981?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: PLANETE A&E HD" tvg-id="planeteaction.fr" group-title="France",FR: PLANETE A&E HD
-http://day2.fast.family/live/4983?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: PLANETE CI HD" tvg-id="planetejustice.fr" group-title="France",FR: PLANETE CI HD
-http://day2.fast.family/live/4982?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: rmc decouverte" tvg-id="rmcdecouverte.fr" group-title="France",FR: rmc decouverte
-http://day2.fast.family/live/1536?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: RTS Deux" tvg-id="RTS Deux" group-title="France",FR: RTS Deux
-http://day2.fast.family/live/3721?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: RTS Un" tvg-id="RTS Un" group-title="France",FR: RTS Un
-http://day2.fast.family/live/3720?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SCIENCE ET VIE HD" tvg-id="scienceandvie.fr" group-title="France",FR: SCIENCE ET VIE HD
-http://day2.fast.family/live/4987?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SCIENCES & VIE" tvg-id="scienceandvie.fr" group-title="France",FR: SCIENCES & VIE
-http://day2.fast.family/live/4986?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SERIE CLUB" tvg-id="serieclub.fr" group-title="France",FR: SERIE CLUB
-http://day2.fast.family/live/3719?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Series Club HD" tvg-id="serieclub.fr" group-title="France",FR: Series Club HD
-http://day2.fast.family/live/4962?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beINS PORTS 2HD" tvg-id="beinsports2.fr" group-title="France",FR: beINS PORTS 2HD
-http://day2.fast.family/live/445?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS1 HD" tvg-id="beinsports1.fr" group-title="France",FR: beIN SPORTS1 HD
-http://day2.fast.family/live/444?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS 3HD" tvg-id="beinsports3.fr" group-title="France",FR: beIN SPORTS 3HD
-http://day2.fast.family/live/446?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: RMC 1" tvg-id="6ter.fr" group-title="France",FR: RMC 1
-http://day2.fast.family/live/3715?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SFR: Sport 2" tvg-id="6ter.fr" group-title="France",FR: SFR: Sport 2
-http://day2.fast.family/live/3713?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SFR: Sport 3" tvg-id="6ter.fr" group-title="France",FR: SFR: Sport 3
-http://day2.fast.family/live/3714?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Syfy HD" tvg-id="syfy.fr" group-title="France",FR: Syfy HD
-http://day2.fast.family/live/4963?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Teva" tvg-id="teva.fr" group-title="France",FR: Teva
-http://day2.fast.family/live/4960?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TF1 HD" tvg-id="tf1.fr" group-title="France",FR: TF1 HD
-http://day2.fast.family/live/241?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Tiji" tvg-id="tiji.fr" group-title="France",FR: Tiji
-http://day2.fast.family/live/4989?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TOUTE L HISTOIRE" tvg-id="toutehistoire.fr" group-title="France",FR: TOUTE L HISTOIRE
-http://day2.fast.family/live/4984?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TV BREIZH HD" tvg-id="tvbreizh.fr" group-title="France",FR: TV BREIZH HD
-http://day2.fast.family/live/4965?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: USHUAIA  HD" tvg-id="ushuaiatv.fr" group-title="France",FR: USHUAIA  HD
-http://day2.fast.family/live/1531?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: A LA CARTE 5" tvg-id="" group-title="France",FR: A LA CARTE 5
-http://day2.fast.family/live/1559?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: A la Carte 6" tvg-id="" group-title="France",FR: A la Carte 6
-http://day2.fast.family/live/1558?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR:A.LA.CARTE.1" tvg-id="" group-title="France",FR:A.LA.CARTE.1
-http://day2.fast.family/live/1561?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: A.LA.CARTE.3" tvg-id="" group-title="France",FR: A.LA.CARTE.3
-http://day2.fast.family/live/1562?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: A.LA.CARTE.4" tvg-id="" group-title="France",FR: A.LA.CARTE.4
-http://day2.fast.family/live/1560?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CINE PREMIER" tvg-id="" group-title="France",FR: CINE PREMIER
-http://day2.fast.family/live/257?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: FRANCE 24" tvg-id="france24.fr" group-title="France",FR: FRANCE 24
-http://day2.fast.family/live/1551?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: NICKELODEON HD" tvg-id="nickelodeon.fr" group-title="France",FR: NICKELODEON HD
-http://day2.fast.family/live/5862?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TRACE URBAN" tvg-id="" group-title="France",FR: TRACE URBAN
-http://day2.fast.family/live/6691?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="VIP FR: ARTE HD ( 1080P )" tvg-id="arte.fr" group-title="France",VIP FR: ARTE HD ( 1080P )
-http://day2.fast.family/live/6734?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="VIP FR: BRAVA HD ( 1080P )" tvg-id="bravahd.fr" group-title="France",VIP FR: BRAVA HD ( 1080P )
-http://day2.fast.family/live/6743?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="VIP FR: TMC HD ( 1080P )" tvg-id="tmc.fr" group-title="France",VIP FR: TMC HD ( 1080P )
-http://day2.fast.family/live/6738?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: DISNEY CHANNEL FHD 1080" tvg-id="disneychannel.fr" group-title="France",FR: DISNEY CHANNEL FHD 1080
-http://day2.fast.family/live/6975?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="VIP FR: Eurosport 2 FHD 1080" tvg-id="eurosport2.fr" group-title="France",VIP FR: Eurosport 2 FHD 1080
-http://day2.fast.family/live/6974?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR:NT1" tvg-id="6ter.fr" group-title="France",FR:NT1
-http://day2.fast.family/live/244?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR:TCM CINEMA" tvg-id="tcm.fr" group-title="France",FR:TCM CINEMA
-http://day2.fast.family/live/4974?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TEVA/TMC" tvg-id="teva.fr" group-title="France",FR: TEVA/TMC
-http://day2.fast.family/live/245?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TREK HD" tvg-id="trek.fr" group-title="France",FR: TREK HD
-http://day2.fast.family/live/1526?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR:TV5 MONDE" tvg-id="tv5monde.fr" group-title="France",FR:TV5 MONDE
-http://day2.fast.family/live/1552?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: DISCOVERY" tvg-id="discoverychannel.fr" group-title="France",FR: DISCOVERY
-http://day2.fast.family/live/3732?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: VOYAGE HD" tvg-id="voyage.fr" group-title="France",FR: VOYAGE HD
-http://day2.fast.family/live/1532?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: BFM SPORT" tvg-id="BFM Sport" group-title="France",FR: BFM SPORT
-http://day2.fast.family/live/7848?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: ELLE GIRL HD 1080" tvg-id="ellegirl.fr" group-title="France",FR: ELLE GIRL HD 1080
-http://day2.fast.family/live/8092?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: GOLF+ HD" tvg-id="golfplus.fr" group-title="France",FR: GOLF+ HD
-http://day2.fast.family/live/8093?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: EQUIDIA LIFE" tvg-id="equidialive.fr" group-title="France",FR: EQUIDIA LIFE
-http://day2.fast.family/live/8238?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: BE CURIOUS TV HD (1080P)" tvg-id="Be Curious TV HD FR" group-title="France",FR: BE CURIOUS TV HD (1080P)
-http://day2.fast.family/live/8327?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: BeIN SPORTS 1 HD (1080P)" tvg-id="beinsports1.fr" group-title="France",FR: BeIN SPORTS 1 HD (1080P)
-http://day2.fast.family/live/8310?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: BeIN SPORTS 2 HD (1080P)" tvg-id="beinsports2.fr" group-title="France",FR: BeIN SPORTS 2 HD (1080P)
-http://day2.fast.family/live/8309?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: BeIN SPORTS 3 HD (1080P)" tvg-id="beinsports3.fr" group-title="France",FR: BeIN SPORTS 3 HD (1080P)
-http://day2.fast.family/live/8308?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CANAL +  HD (1080P)" tvg-id="canalplus.fr" group-title="France",FR: CANAL +  HD (1080P)
-http://day2.fast.family/live/8326?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Canal  Sport HD (1080P)" tvg-id="Canal+ Sport HD FR" group-title="France",FR: Canal  Sport HD (1080P)
-http://day2.fast.family/live/8311?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CANAL CINEMA HD (1080P)" tvg-id="Canal+ Cinema HD FR" group-title="France",FR: CANAL CINEMA HD (1080P)
-http://day2.fast.family/live/8323?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Cartoon Network HD (1080P)" tvg-id="cartoonnetwork.fr" group-title="France",FR: Cartoon Network HD (1080P)
-http://day2.fast.family/live/8312?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Cine Famiz HD (1080P)" tvg-id="" group-title="France",FR: Cine Famiz HD (1080P)
-http://day2.fast.family/live/8319?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Cine Frisson HD (1080P)" tvg-id="" group-title="France",FR: Cine Frisson HD (1080P)
-http://day2.fast.family/live/8320?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Cine Premier HD (1080P)" tvg-id="" group-title="France",FR: Cine Premier HD (1080P)
-http://day2.fast.family/live/8321?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: DISNEY CINEMA HD (1080P)" tvg-id="disneycinema.fr" group-title="France",FR: DISNEY CINEMA HD (1080P)
-http://day2.fast.family/live/8315?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: DISNEY JUNIOR HD (1080P)" tvg-id="disneyjunior.fr" group-title="France",FR: DISNEY JUNIOR HD (1080P)
-http://day2.fast.family/live/8314?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: France 02 HD (1080P)" tvg-id="france2.fr" group-title="France",FR: France 02 HD (1080P)
-http://day2.fast.family/live/8341?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: France 03 HD (1080P)" tvg-id="france3.fr" group-title="France",FR: France 03 HD (1080P)
-http://day2.fast.family/live/8340?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: HD1 HD (1080P)" tvg-id="6ter.fr" group-title="France",FR: HD1 HD (1080P)
-http://day2.fast.family/live/8328?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: M6 HD (1080P)" tvg-id="m6.fr" group-title="France",FR: M6 HD (1080P)
-http://day2.fast.family/live/8337?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Syfy HD (1080P)" tvg-id="syfy.fr" group-title="France",FR: Syfy HD (1080P)
-http://day2.fast.family/live/8331?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: TF1 HD (1080P)" tvg-id="tf1.fr" group-title="France",FR: TF1 HD (1080P)
-http://day2.fast.family/live/8342?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Discovery Investigation HD" tvg-id="" group-title="France",FR: Discovery Investigation HD
-http://day2.fast.family/live/8389?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: BFM business" tvg-id="" group-title="France",FR: BFM business
-http://day2.fast.family/live/8404?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: E! Entertainment" tvg-id="eentertainment.fr" group-title="France",FR: E! Entertainment
-http://day2.fast.family/live/8516?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SFR2 SPORT HD (backup)" tvg-id="6ter.fr" group-title="France",FR: SFR2 SPORT HD (backup)
-http://day2.fast.family/live/8628?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: SFR SPORT 3 backup" tvg-id="6ter.fr" group-title="France",FR: SFR SPORT 3 backup
-http://day2.fast.family/live/8629?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Bein Sports 1 HD backup" tvg-id="beinsports1.fr" group-title="France",FR: Bein Sports 1 HD backup
-http://day2.fast.family/live/8803?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CRIME DISTRICT HD" tvg-id="" group-title="France",FR: CRIME DISTRICT HD
-http://day2.fast.family/live/8805?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: MCM" tvg-id="mcm.fr" group-title="France",FR: MCM
-http://day2.fast.family/live/9162?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: MCM TOP" tvg-id="mcmtop.fr" group-title="France",FR: MCM TOP
-http://day2.fast.family/live/9163?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Nick Jr" tvg-id="nickjr.fr" group-title="France",FR: Nick Jr
-http://day2.fast.family/live/9161?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Seasons" tvg-id="seasons.fr" group-title="France",FR: Seasons
-http://day2.fast.family/live/9440?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: FOOT+ 24" tvg-id="footplus24.fr" group-title="France",FR: FOOT+ 24
-http://day2.fast.family/live/16098?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: beIN SPORTS 2 backup" tvg-id="beinsports2.fr" group-title="France",FR: beIN SPORTS 2 backup
-http://day2.fast.family/live/16105?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: CNews HD" tvg-id="cnews.fr" group-title="France",FR: CNews HD
-http://day2.fast.family/live/17072?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: ALTICE STUDIO HD" tvg-id="" group-title="France",FR: ALTICE STUDIO HD
-http://day2.fast.family/live/17197?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: BET" tvg-id="BET HD FR" group-title="France",FR: BET
-http://day2.fast.family/live/17199?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: J One" tvg-id="" group-title="France",FR: J One
-http://day2.fast.family/live/17198?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: OCS Go Cinema 1 HD" tvg-id="" group-title="France",FR: OCS Go Cinema 1 HD
-http://day2.fast.family/live/17300?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: OCS Go Cinema 5 HD" tvg-id="" group-title="France",FR: OCS Go Cinema 5 HD
-http://day2.fast.family/live/17296?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Orange Cinema 1 HD" tvg-id="" group-title="France",FR: Orange Cinema 1 HD
-http://day2.fast.family/live/17295?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Orange Cinema 3 HD" tvg-id="" group-title="France",FR: Orange Cinema 3 HD
-http://day2.fast.family/live/17293?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Orange Cinema 4 HD" tvg-id="" group-title="France",FR: Orange Cinema 4 HD
-http://day2.fast.family/live/17292?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Orange Cinema Action HD" tvg-id="" group-title="France",FR: Orange Cinema Action HD
-http://day2.fast.family/live/17290?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Orange Cinema Aventure HD" tvg-id="" group-title="France",FR: Orange Cinema Aventure HD
-http://day2.fast.family/live/17289?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Orange Cinema HD" tvg-id="" group-title="France",FR: Orange Cinema HD
-http://day2.fast.family/live/17288?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Orange Comment C'Est Fait HD" tvg-id="" group-title="France",FR: Orange Comment C'Est Fait HD
-http://day2.fast.family/live/17286?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Orange Documentaire HD" tvg-id="" group-title="France",FR: Orange Documentaire HD
-http://day2.fast.family/live/17285?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
-#EXTINF:-1 tvg-name="FR: Orange Enquete Exlusive HD" tvg-id="" group-title="France",FR: Orange Enquete Exlusive HD
-http://day2.fast.family/live/17284?u=2087515&s=5c5b678f2723883f7633c4a70e9a50ff56b5a5515e01fabb10665446c739cacd
+
